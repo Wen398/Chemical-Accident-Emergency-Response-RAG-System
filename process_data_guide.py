@@ -4,63 +4,103 @@ def process_guide_section(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
-    clean_lines = []
-    current_guide = None
-    buffer = []
+    processed_lines = []
+    
+    # Manual Intro Insertion (Clean Markdown)
+    intro_text = [
+        "# SUGGESTED OPERATIONS SHOULD ONLY BE PERFORMED BY ADEQUATELY TRAINED AND EQUIPPED PERSONNEL",
+        "",
+        "## HOW TO USE THE ORANGE GUIDES",
+        "",
+        "### GUIDE NUMBER AND TITLE",
+        "- The guide title identifies the general hazards associated with the materials in this Guide.",
+        "",
+        "### POTENTIAL HAZARDS",
+        "- Emergency responders should consult this section first!",
+        "- Describes the material hazard in terms of FIRE OR EXPLOSION and HEALTH effects upon exposure.",
+        "- The primary potential hazard is listed first.",
+        "- Allows the responders to make decisions to protect the emergency response team, and the surrounding population.",
+        ""
+    ]
+    processed_lines.extend(intro_text)
 
-    # Regex patterns for noise
-    page_header_pattern = re.compile(r'^--- 第 \d+ 頁 ---$') # --- 第 1 頁 ---
-    page_num_pattern = re.compile(r'^Page \d+$') # Page 148
-    erg_year_pattern = re.compile(r'^ERG 20\d{2}$') # ERG 2024
+    # Patterns
+    page_header_pattern = re.compile(r'^--- 第 \d+ 頁 ---$')
+    page_num_pattern = re.compile(r'^Page \d+$')
+    erg_year_pattern = re.compile(r'^ERG 20\d{2}$')
     guide_heading_pattern = re.compile(r'^GUIDE$')
     guide_num_pattern = re.compile(r'^\d{3}$')
-
-    skip_next = False
-
-    for i, line in enumerate(lines):
-        line = line.strip()
+    bullet_pattern = re.compile(r'^\s*•\s+')
+    
+    # State tracking
+    found_first_guide = False
+    current_guide_num = None
+    
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
         
-        # Skip empty lines if needed, but keeping paragraph breaks is good.
-        # However, extreme empty lines from removal should be handled.
+        # Pattern Matching for Noise
+        is_noise = False
+        if page_header_pattern.match(line): is_noise = True
+        if page_num_pattern.match(line): is_noise = True
+        if erg_year_pattern.match(line): is_noise = True
         
-        if page_header_pattern.match(line):
-            continue
-        if page_num_pattern.match(line):
-            continue
-        if erg_year_pattern.match(line):
+        if is_noise:
+            i += 1
             continue
             
-        # Detect GUIDE header
-        # Pattern in text: 
-        # GUIDE
-        # 111
+        # Check for GUIDE header
         if guide_heading_pattern.match(line):
-            # Check next line for number
-            if i + 1 < len(lines):
-                next_line = lines[i+1].strip()
+            # Scan ahead for number (skipping noise)
+            j = i + 1
+            found_num = None
+            
+            while j < len(lines):
+                next_line = lines[j].strip()
+                # Skip noise in lookahead
+                if page_header_pattern.match(next_line) or page_num_pattern.match(next_line) or erg_year_pattern.match(next_line) or next_line == "":
+                    j += 1
+                    continue
+                
+                # Check for Number
                 if guide_num_pattern.match(next_line):
-                    # It is a header.
-                    # We might want to unify it: "GUIDE 111"
-                    # But the loop will process next_line next.
-                    # Let's just output "GUIDE" and let next line be "111".
-                    # Or better, combine them for clarity?
-                    # Let's keep structure but ensure clean breaks.
-                    pass
+                    found_num = next_line
+                break # Stop if we hit non-noise and non-number (found_num will be set if matched)
+            
+            if found_num:
+                found_first_guide = True
+                
+                if found_num == current_guide_num:
+                    # Duplicate header, skip this GUIDE block and the number line
+                    # We need to skip until j+1
+                    i = j + 1
+                    continue
+                else:
+                    # New Guide
+                    current_guide_num = found_num
+                    processed_lines.append("") # Spacer
+                    processed_lines.append("GUIDE")
+                    processed_lines.append(found_num)
+                    i = j + 1
+                    continue
         
-        clean_lines.append(line)
+        if not found_first_guide:
+            # Skip everything before first guide (since we inserted manual intro)
+            i += 1
+            continue
+            
+        # Normal content processing
+        # Replace bullets
+        clean_content = bullet_pattern.sub('- ', line)
+        if clean_content:
+            processed_lines.append(clean_content)
+            
+        i += 1
 
-    # Post-processing to join paragraphs or fixing weird breaks?
-    # For now, just dumping the filtered lines is a huge improvement.
-    # But let's look at the structure "GUIDE \n 111".
-    
     with open(output_path, 'w', encoding='utf-8') as f:
-        for line in clean_lines:
-            if line: # Write non-empty lines, or keep empty lines?
-                # RAG chunks often rely on double \n for splitting.
-                # Original file has gaps.
-                f.write(line + '\n')
-            else:
-                f.write('\n')
+        for line in processed_lines:
+            f.write(line + '\n')
 
 if __name__ == "__main__":
     input_file = "/home/khstudent3/chemical-accident-system/ERG_Guide_Section.txt"
