@@ -1,0 +1,946 @@
+{
+    "1162": [
+        {
+            "guide_no": "155",
+            "material_name": "Dimethyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1183": [
+        {
+            "guide_no": "139",
+            "material_name": "Ethyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1196": [
+        {
+            "guide_no": "155",
+            "material_name": "Ethyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1242": [
+        {
+            "guide_no": "139",
+            "material_name": "Methyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1250": [
+        {
+            "guide_no": "155",
+            "material_name": "Methyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1295": [
+        {
+            "guide_no": "139",
+            "material_name": "Trichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1298": [
+        {
+            "guide_no": "155",
+            "material_name": "Trimethylchlorosilane 1305 155P Vinyltrichlorosilane       HCl",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1340": [
+        {
+            "guide_no": "139",
+            "material_name": "Phosphorus pentasulfide, free from yellow and white phosphorus",
+            "tih_gases": [
+                "H2S"
+            ]
+        },
+        {
+            "guide_no": "139",
+            "material_name": "Phosphorus pentasulphide, free from yellow and white phosphorus",
+            "tih_gases": [
+                "H2S"
+            ]
+        }
+    ],
+    "1360": [
+        {
+            "guide_no": "139",
+            "material_name": "Calcium phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1384": [
+        {
+            "guide_no": "135",
+            "material_name": "Sodium dithionite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Sodium hydrosulfite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Sodium hydrosulphite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "1390": [
+        {
+            "guide_no": "139",
+            "material_name": "Alkali metal amides",
+            "tih_gases": [
+                "NH"
+            ]
+        }
+    ],
+    "1397": [
+        {
+            "guide_no": "139",
+            "material_name": "Aluminum phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1419": [
+        {
+            "guide_no": "139",
+            "material_name": "Magnesium aluminum phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1432": [
+        {
+            "guide_no": "139",
+            "material_name": "Sodium phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1541": [
+        {
+            "guide_no": "156",
+            "material_name": "Acetone cyanohydrin, stabilized",
+            "tih_gases": [
+                "HCN"
+            ]
+        }
+    ],
+    "1680": [
+        {
+            "guide_no": "157",
+            "material_name": "Potassium cyanide, solid",
+            "tih_gases": [
+                "HCN"
+            ]
+        }
+    ],
+    "1689": [
+        {
+            "guide_no": "157",
+            "material_name": "Sodium cyanide, solid",
+            "tih_gases": [
+                "HCN"
+            ]
+        }
+    ],
+    "1716": [
+        {
+            "guide_no": "156",
+            "material_name": "Acetyl bromide",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "1717": [
+        {
+            "guide_no": "155",
+            "material_name": "Acetyl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1724": [
+        {
+            "guide_no": "155",
+            "material_name": "Allyltrichlorosilane, stabilized",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1725": [
+        {
+            "guide_no": "137",
+            "material_name": "Aluminum bromide, anhydrous",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "1726": [
+        {
+            "guide_no": "137",
+            "material_name": "Aluminum chloride, anhydrous",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1728": [
+        {
+            "guide_no": "156",
+            "material_name": "Amyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1732": [
+        {
+            "guide_no": "157",
+            "material_name": "Antimony pentafluoride",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "1741": [
+        {
+            "guide_no": "125",
+            "material_name": "Boron trichloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1745": [
+        {
+            "guide_no": "144",
+            "material_name": "Bromine pentafluoride",
+            "tih_gases": [
+                "HF",
+                "Br2"
+            ]
+        }
+    ],
+    "1746": [
+        {
+            "guide_no": "144",
+            "material_name": "Bromine trifluoride",
+            "tih_gases": [
+                "HF",
+                "Br2"
+            ]
+        }
+    ],
+    "1747": [
+        {
+            "guide_no": "155",
+            "material_name": "Butyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1752": [
+        {
+            "guide_no": "156",
+            "material_name": "Chloroacetyl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1753": [
+        {
+            "guide_no": "156",
+            "material_name": "Chlorophenyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1754": [
+        {
+            "guide_no": "137",
+            "material_name": "Chlorosulfonic acid (with or without sulfur trioxide)",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Chlorosulphonic acid (with or without sulphur trioxide)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1758": [
+        {
+            "guide_no": "137",
+            "material_name": "Chromium oxychloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1762": [
+        {
+            "guide_no": "156",
+            "material_name": "Cyclohexenyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1763": [
+        {
+            "guide_no": "156",
+            "material_name": "Cyclohexyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1765": [
+        {
+            "guide_no": "156",
+            "material_name": "Dichloroacetyl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1766": [
+        {
+            "guide_no": "156",
+            "material_name": "Dichlorophenyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1767": [
+        {
+            "guide_no": "155",
+            "material_name": "Diethyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1769": [
+        {
+            "guide_no": "156",
+            "material_name": "Diphenyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1771": [
+        {
+            "guide_no": "156",
+            "material_name": "Dodecyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1777": [
+        {
+            "guide_no": "137",
+            "material_name": "Fluorosulfonic acid",
+            "tih_gases": [
+                "HF"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Fluorosulphonic acid",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "1781": [
+        {
+            "guide_no": "156",
+            "material_name": "Hexadecyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1784": [
+        {
+            "guide_no": "156",
+            "material_name": "Hexyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1799": [
+        {
+            "guide_no": "156",
+            "material_name": "Nonyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1800": [
+        {
+            "guide_no": "156",
+            "material_name": "Octadecyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1801": [
+        {
+            "guide_no": "156",
+            "material_name": "Octyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1804": [
+        {
+            "guide_no": "156",
+            "material_name": "Phenyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1806": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus pentachloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1808": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus tribromide",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "1809": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus trichloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1810": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus oxychloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1815": [
+        {
+            "guide_no": "155",
+            "material_name": "Propionyl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1816": [
+        {
+            "guide_no": "155",
+            "material_name": "Propyltrichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1818": [
+        {
+            "guide_no": "157",
+            "material_name": "Silicon tetrachloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1828": [
+        {
+            "guide_no": "137",
+            "material_name": "Sulfur chlorides",
+            "tih_gases": [
+                "HCl",
+                "SO2",
+                "H2S"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Sulphur chlorides",
+            "tih_gases": [
+                "HCl",
+                "SO2",
+                "H2S"
+            ]
+        }
+    ],
+    "1834": [
+        {
+            "guide_no": "137",
+            "material_name": "Sulfuryl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Sulphuryl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1836": [
+        {
+            "guide_no": "137",
+            "material_name": "Thionyl chloride",
+            "tih_gases": [
+                "HCl",
+                "SO2"
+            ]
+        }
+    ],
+    "1838": [
+        {
+            "guide_no": "137",
+            "material_name": "Titanium tetrachloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1898": [
+        {
+            "guide_no": "156",
+            "material_name": "Acetyl iodide",
+            "tih_gases": [
+                "HI"
+            ]
+        }
+    ],
+    "1923": [
+        {
+            "guide_no": "135",
+            "material_name": "Calcium dithionite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Calcium hydrosulfite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Calcium hydrosulphite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "1929": [
+        {
+            "guide_no": "135",
+            "material_name": "Potassium dithionite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Potassium hydrosulfite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Potassium hydrosulphite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "1931": [
+        {
+            "guide_no": "171",
+            "material_name": "Zinc dithionite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "171",
+            "material_name": "Zinc hydrosulfite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "171",
+            "material_name": "Zinc hydrosulphite",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "2004": [
+        {
+            "guide_no": "135",
+            "material_name": "Magnesium diamide",
+            "tih_gases": [
+                "NH"
+            ]
+        }
+    ],
+    "2011": [
+        {
+            "guide_no": "139",
+            "material_name": "Magnesium phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "2012": [
+        {
+            "guide_no": "139",
+            "material_name": "Potassium phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "2013": [
+        {
+            "guide_no": "139",
+            "material_name": "Strontium phosphide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "2308": [
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulfuric acid, liquid",
+            "tih_gases": [
+                "NO2"
+            ]
+        },
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulphuric acid, liquid",
+            "tih_gases": [
+                "NO2"
+            ]
+        }
+    ],
+    "2353": [
+        {
+            "guide_no": "155",
+            "material_name": "Butyryl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2395": [
+        {
+            "guide_no": "155",
+            "material_name": "Isobutyryl chloride",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2434": [
+        {
+            "guide_no": "156",
+            "material_name": "Dibenzyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2435": [
+        {
+            "guide_no": "156",
+            "material_name": "Ethylphenyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2437": [
+        {
+            "guide_no": "156",
+            "material_name": "Methylphenyldichlorosilane",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2495": [
+        {
+            "guide_no": "144",
+            "material_name": "Iodine pentafluoride",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2691": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus pentabromide",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "2692": [
+        {
+            "guide_no": "157",
+            "material_name": "Boron tribromide",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "2806": [
+        {
+            "guide_no": "139",
+            "material_name": "Lithium nitride",
+            "tih_gases": [
+                "NH"
+            ]
+        }
+    ],
+    "2965": [
+        {
+            "guide_no": "139",
+            "material_name": "Boron trifluoride dimethyl etherate",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2977": [
+        {
+            "guide_no": "166",
+            "material_name": "Radioactive material, uranium hexafluoride, fissile",
+            "tih_gases": [
+                "HF"
+            ]
+        },
+        {
+            "guide_no": "166",
+            "material_name": "Uranium hexafluoride, radioactive material, fissile",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2978": [
+        {
+            "guide_no": "166",
+            "material_name": "Radioactive material, uranium hexafluoride, non fissile or fissile-excepted",
+            "tih_gases": [
+                "HF"
+            ]
+        },
+        {
+            "guide_no": "166",
+            "material_name": "Uranium hexafluoride, radioactive material, non fissile or fissile-excepted",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2985": [
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, flammable, corrosive, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2986": [
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, corrosive, flammable, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2987": [
+        {
+            "guide_no": "156",
+            "material_name": "Chlorosilanes, corrosive, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2988": [
+        {
+            "guide_no": "139",
+            "material_name": "Chlorosilanes, water-reactive, flammable, corrosive, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "3048": [
+        {
+            "guide_no": "157",
+            "material_name": "Aluminum phosphide pesticide",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "3361": [
+        {
+            "guide_no": "156",
+            "material_name": "Chlorosilanes, poisonous, corrosive, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "156",
+            "material_name": "Chlorosilanes, toxic, corrosive, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "3362": [
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, poisonous, corrosive, flammable, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, toxic, corrosive, flammable, n.o.s.",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "3456": [
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulfuric acid, solid",
+            "tih_gases": [
+                "NO2"
+            ]
+        },
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulphuric acid, solid",
+            "tih_gases": [
+                "NO2"
+            ]
+        }
+    ],
+    "3507": [
+        {
+            "guide_no": "166",
+            "material_name": "Uranium hexafluoride, radioactive material, excepted package, less than 0.1 kg per package, non-fissile or fissile-excepted",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "9191": [
+        {
+            "guide_no": "143",
+            "material_name": "Chlorine dioxide, hydrate, frozen",
+            "tih_gases": [
+                "Cl2"
+            ]
+        }
+    ]
+}

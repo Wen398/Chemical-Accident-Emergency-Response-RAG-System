@@ -1,0 +1,246 @@
+                                                      
+        TABLE 2 - WATER-REACTIVE MATERIALS WHICH PRODUCE TOXIC GASES
+                                                      
+          Materials Which Produce Large Amounts of Toxic-by-Inhalation (TIH)
+                (PIH in the US) Gas(es) When Spilled in Water
+      ID Guide Name of Material            TIH Gas(es)
+      No. No.                              Produced   
+                                                      
+      1162 155 Dimethyldichlorosilane      HCl        
+      1183 139 Ethyldichlorosilane         HCl        
+      1196 155 Ethyltrichlorosilane        HCl        
+                                                      
+      1242 139 Methyldichlorosilane        HCl        
+      1250 155 Methyltrichlorosilane       HCl        
+      1295 139 Trichlorosilane             HCl        
+      1298 155 Trimethylchlorosilane       HCl        
+      1305 155P Vinyltrichlorosilane       HCl        
+      1340 139 Phosphorus pentasulfide, free from yellow and white phosphorus H2S
+      1340 139 Phosphorus pentasulphide, free from yellow and white phosphorus H2S
+      1360 139 Calcium phosphide           PH         
+                                            3         
+      1384 135 Sodium dithionite           H2S SO2    
+      1384 135 Sodium hydrosulfite         H2S SO2    
+      1384 135 Sodium hydrosulphite        H2S SO2    
+      1390 139 Alkali metal amides         NH         
+                                            3         
+      1397 139 Aluminum phosphide          PH         
+                                            3         
+      1419 139 Magnesium aluminum phosphide PH        
+                                            3         
+      1432 139 Sodium phosphide            PH         
+                                            3         
+      1541 156 Acetone cyanohydrin, stabilized HCN    
+      1680 157 Potassium cyanide, solid    HCN        
+      1689 157 Sodium cyanide, solid       HCN        
+      1716 156 Acetyl bromide              HBr        
+      1717 155 Acetyl chloride             HCl        
+      1724 155 Allyltrichlorosilane, stabilized HCl   
+    Chemical Symbols for TIH (PIH in the US) Gases:   
+      Br 2 Bromine    HF Hydrogen fluoride NO 2 Nitrogen dioxide
+      Cl 2 Chlorine   HI Hydrogen iodide PH 3 Phosphine
+      HBr Hydrogen bromide H 2 S Hydrogen sulfide SO 2 Sulfur dioxide
+      HCl Hydrogen chloride H S Hydrogen sulphide SO Sulphur dioxide
+                      2                2              
+      HCN Hydrogen cyanide NH Ammonia                 
+                       3                              
+               Use this list only when material is spilled in water. Page 335
+                                                   2  
+                                                   ELBAT
+                                                      
+      TABLE 2 - WATER-REACTIVE MATERIALS WHICH PRODUCE TOXIC GASES
+                                                      
+          Materials Which Produce Large Amounts of Toxic-by-Inhalation (TIH)
+               (PIH in the US) Gas(es) When Spilled in Water
+    ID Guide Name of Material            TIH Gas(es)  
+    No. No.                              Produced     
+                                                      
+    1725 137 Aluminum bromide, anhydrous HBr          
+    1726 137 Aluminum chloride, anhydrous HCl         
+    1728 156 Amyltrichlorosilane         HCl          
+                                                      
+    1732 157 Antimony pentafluoride      HF           
+    1741 125 Boron trichloride           HCl          
+    1745 144 Bromine pentafluoride       HF Br2       
+    1746 144 Bromine trifluoride         HF Br2       
+    1747 155 Butyltrichlorosilane        HCl          
+    1752 156 Chloroacetyl chloride       HCl          
+    1753 156 Chlorophenyltrichlorosilane HCl          
+    1754 137 Chlorosulfonic acid (with or without sulfur trioxide) HCl
+                                                      
+    1754 137 Chlorosulphonic acid (with or without sulphur trioxide) HCl
+    1758 137 Chromium oxychloride        HCl          
+    1762 156 Cyclohexenyltrichlorosilane HCl          
+    1763 156 Cyclohexyltrichlorosilane   HCl          
+    1765 156 Dichloroacetyl chloride     HCl          
+    1766 156 Dichlorophenyltrichlorosilane HCl        
+    1767 155 Diethyldichlorosilane       HCl          
+    1769 156 Diphenyldichlorosilane      HCl          
+                                                      
+    1771 156 Dodecyltrichlorosilane      HCl          
+    1777 137 Fluorosulfonic acid         HF           
+    1777 137 Fluorosulphonic acid        HF           
+    1781 156 Hexadecyltrichlorosilane    HCl          
+    1784 156 Hexyltrichlorosilane        HCl          
+                                                      
+    Chemical Symbols for TIH (PIH in the US) Gases:   
+     Br Bromine      HF  Hydrogen fluoride NO Nitrogen dioxide
+      2                               2               
+     Cl Chlorine     HI  Hydrogen iodide PH Phosphine 
+      2                               3               
+     HBr Hydrogen bromide H S Hydrogen sulfide SO Sulfur dioxide
+                      2               2               
+     HCl Hydrogen chloride H S Hydrogen sulphide SO Sulphur dioxide
+                      2               2               
+     HCN Hydrogen cyanide NH Ammonia                  
+                      3                               
+   Page 336    Use this list only when material is spilled in water.
+                                                      
+        TABLE 2 - WATER-REACTIVE MATERIALS WHICH PRODUCE TOXIC GASES
+                                                      
+           Materials Which Produce Large Amounts of Toxic-by-Inhalation (TIH)
+                 (PIH in the US) Gas(es) When Spilled in Water
+      ID Guide Name of Material            TIH Gas(es)
+      No. No.                              Produced   
+                                                      
+      1799 156 Nonyltrichlorosilane        HCl        
+      1800 156 Octadecyltrichlorosilane    HCl        
+      1801 156 Octyltrichlorosilane        HCl        
+                                                      
+      1804 156 Phenyltrichlorosilane       HCl        
+      1806 137 Phosphorus pentachloride    HCl        
+      1808 137 Phosphorus tribromide       HBr        
+      1809 137 Phosphorus trichloride      HCl        
+      1810 137 Phosphorus oxychloride      HCl        
+      1815 155 Propionyl chloride          HCl        
+      1816 155 Propyltrichlorosilane       HCl        
+      1818 157 Silicon tetrachloride       HCl        
+                                                      
+      1828 137 Sulfur chlorides            HCl SO2 H2S
+      1828 137 Sulphur chlorides           HCl SO2 H2S
+      1834 137 Sulfuryl chloride           HCl        
+      1834 137 Sulphuryl chloride          HCl        
+      1836 137 Thionyl chloride            HCl SO2    
+      1838 137 Titanium tetrachloride      HCl        
+      1898 156 Acetyl iodide               HI         
+      1923 135 Calcium dithionite          H2S SO2    
+                                                      
+      1923 135 Calcium hydrosulfite        H2S SO2    
+      1923 135 Calcium hydrosulphite       H2S SO2    
+      1929 135 Potassium dithionite        H2S SO2    
+      1929 135 Potassium hydrosulfite      H2S SO2    
+      1929 135 Potassium hydrosulphite     H2S SO2    
+                                                      
+    Chemical Symbols for TIH (PIH in the US) Gases:   
+      Br Bromine      HF Hydrogen fluoride NO Nitrogen dioxide
+       2                               2              
+      Cl Chlorine     HI Hydrogen iodide PH Phosphine 
+       2                               3              
+      HBr Hydrogen bromide H S Hydrogen sulfide SO Sulfur dioxide
+                      2                2              
+      HCl Hydrogen chloride H S Hydrogen sulphide SO Sulphur dioxide
+                      2                2              
+      HCN Hydrogen cyanide NH Ammonia                 
+                       3                              
+                Use this list only when material is spilled in water. Page 337
+                                                   2  
+                                                   ELBAT
+                                                      
+      TABLE 2 - WATER-REACTIVE MATERIALS WHICH PRODUCE TOXIC GASES
+                                                      
+          Materials Which Produce Large Amounts of Toxic-by-Inhalation (TIH)
+               (PIH in the US) Gas(es) When Spilled in Water
+    ID Guide Name of Material            TIH Gas(es)  
+    No. No.                              Produced     
+                                                      
+    1931 171 Zinc dithionite             H2S SO2      
+    1931 171 Zinc hydrosulfite           H2S SO2      
+    1931 171 Zinc hydrosulphite          H2S SO2      
+                                                      
+    2004 135 Magnesium diamide           NH           
+                                          3           
+    2011 139 Magnesium phosphide         PH           
+                                          3           
+    2012 139 Potassium phosphide         PH           
+                                          3           
+    2013 139 Strontium phosphide         PH           
+                                          3           
+    2308 157 Nitrosylsulfuric acid, liquid NO2        
+    2308 157 Nitrosylsulphuric acid, liquid NO2       
+    2353 155 Butyryl chloride            HCl          
+    2395 155 Isobutyryl chloride         HCl          
+    2434 156 Dibenzyldichlorosilane      HCl          
+    2435 156 Ethylphenyldichlorosilane   HCl          
+    2437 156 Methylphenyldichlorosilane  HCl          
+    2495 144 Iodine pentafluoride        HF           
+    2691 137 Phosphorus pentabromide     HBr          
+    2692 157 Boron tribromide            HBr          
+    2806 139 Lithium nitride             NH           
+                                          3           
+    2965 139 Boron trifluoride dimethyl etherate HF   
+    2977 166 Radioactive material, uranium hexafluoride, fissile HF
+    2977 166 Uranium hexafluoride, radioactive material, fissile HF
+    2978 166 Radioactive material, uranium hexafluoride, non fissile or HF
+           fissile-excepted                           
+    Chemical Symbols for TIH (PIH in the US) Gases:   
+     Br Bromine      HF  Hydrogen fluoride NO Nitrogen dioxide
+      2                               2               
+     Cl Chlorine     HI  Hydrogen iodide PH Phosphine 
+      2                               3               
+     HBr Hydrogen bromide H S Hydrogen sulfide SO Sulfur dioxide
+                      2               2               
+     HCl Hydrogen chloride H S Hydrogen sulphide SO Sulphur dioxide
+                      2               2               
+     HCN Hydrogen cyanide NH Ammonia                  
+                      3                               
+   Page 338    Use this list only when material is spilled in water.
+                                                      
+        TABLE 2 - WATER-REACTIVE MATERIALS WHICH PRODUCE TOXIC GASES
+                                                      
+           Materials Which Produce Large Amounts of Toxic-by-Inhalation (TIH)
+                 (PIH in the US) Gas(es) When Spilled in Water
+      ID Guide Name of Material            TIH Gas(es)
+      No. No.                              Produced   
+                                                      
+      2978 166 Uranium hexafluoride, radioactive material, non fissile or HF
+            fissile-excepted                          
+      2985 155 Chlorosilanes, flammable, corrosive, n.o.s. HCl
+      2986 155 Chlorosilanes, corrosive, flammable, n.o.s. HCl
+      2987 156 Chlorosilanes, corrosive, n.o.s. HCl   
+                                                      
+      2988 139 Chlorosilanes, water-reactive, flammable, corrosive, n.o.s. HCl
+      3048 157 Aluminum phosphide pesticide PH        
+                                            3         
+      3361 156 Chlorosilanes, poisonous, corrosive, n.o.s. HCl
+      3361 156 Chlorosilanes, toxic, corrosive, n.o.s. HCl
+      3362 155 Chlorosilanes, poisonous, corrosive, flammable, n.o.s. HCl
+      3362 155 Chlorosilanes, toxic, corrosive, flammable, n.o.s. HCl
+      3456 157 Nitrosylsulfuric acid, solid NO2       
+      3456 157 Nitrosylsulphuric acid, solid NO2      
+      3507 166 Uranium hexafluoride, radioactive material, excepted HF
+            package, less than 0.1 kg per package, non-fissile or
+            fissile-excepted                          
+      9191 143 Chlorine dioxide, hydrate, frozen Cl2  
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+    Chemical Symbols for TIH (PIH in the US) Gases:   
+      Br Bromine      HF Hydrogen fluoride NO Nitrogen dioxide
+       2                               2              
+      Cl Chlorine     HI Hydrogen iodide PH Phosphine 
+       2                               3              
+      HBr Hydrogen bromide H S Hydrogen sulfide SO Sulfur dioxide
+                      2                2              
+      HCl Hydrogen chloride H S Hydrogen sulphide SO Sulphur dioxide
+                      2                2              
+      HCN Hydrogen cyanide NH Ammonia                 
+                       3                              
+                Use this list only when material is spilled in water. Page 339
+                                                   2  
+                                                   ELBAT

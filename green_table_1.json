@@ -1,0 +1,3771 @@
+{
+    "1005": {
+        "guide_no": "125",
+        "material_name": "Ammonia, anhydrous / Anhydrous ammonia",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "1008": {
+        "guide_no": "125",
+        "material_name": "Boron trifluoride, compressed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "2.4 km (1.5 mi)",
+            "protect_night": "4.7 km (2.9 mi)"
+        }
+    },
+    "1016": {
+        "guide_no": "119",
+        "material_name": "Carbon monoxide, compressed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.2 km (0.7 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        }
+    },
+    "1017": {
+        "guide_no": "124",
+        "material_name": "Chlorine",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.5 km (0.9 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "1026": {
+        "guide_no": "119",
+        "material_name": "Cyanogen",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        }
+    },
+    "1040": {
+        "guide_no": "119P",
+        "material_name": "Ethylene oxide with nitrogen",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "1045": {
+        "guide_no": "124",
+        "material_name": "Fluorine, compressed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.3 km (1.4 mi)"
+        }
+    },
+    "1048": {
+        "guide_no": "125",
+        "material_name": "Hydrogen bromide, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.7 mi)",
+            "protect_night": "3.2 km (2.0 mi)"
+        }
+    },
+    "1050": {
+        "guide_no": "125",
+        "material_name": "Hydrogen chloride, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "1051": {
+        "guide_no": "117P",
+        "material_name": "Hydrogen cyanide, stabilized",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        }
+    },
+    "1052": {
+        "guide_no": "125",
+        "material_name": "Hydrogen fluoride, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "1053": {
+        "guide_no": "117",
+        "material_name": "Hydrogen sulfide / Hydrogen sulphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "2.4 km (1.5 mi)",
+            "protect_night": "6.3 km (4.0 mi)"
+        }
+    },
+    "1061": {
+        "guide_no": "118",
+        "material_name": "Methylamine, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.1 km (1.3 mi)"
+        }
+    },
+    "1062": {
+        "guide_no": "123",
+        "material_name": "Methyl bromide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "1064": {
+        "guide_no": "117",
+        "material_name": "Methyl mercaptan",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.3 km (0.8 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        }
+    },
+    "1067": {
+        "guide_no": "124",
+        "material_name": "Dinitrogen tetroxide / Nitrogen dioxide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "3.3 km (2.1 mi)"
+        }
+    },
+    "1069": {
+        "guide_no": "125",
+        "material_name": "Nitrosyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "1.0 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "4.3 km (2.7 mi)",
+            "protect_night": "9.6 km (6.0 mi)"
+        }
+    },
+    "1076": {
+        "guide_no": "125",
+        "material_name": "Phosgene",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "500 m (1500 ft)",
+            "protect_day": "3.0 km (1.9 mi)",
+            "protect_night": "9.5 km (5.9 mi)"
+        }
+    },
+    "1079": {
+        "guide_no": "125",
+        "material_name": "Sulfur dioxide / Sulphur dioxide",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.6 km (1.6 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "1082": {
+        "guide_no": "119P",
+        "material_name": "Refrigerant gas R-1113 / Trifluorochloroethylene, / stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "1092": {
+        "guide_no": "131P",
+        "material_name": "Acrolein, stabilized",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.3 km (0.8 mi)",
+            "protect_night": "3.5 km (2.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "6.8 km (4.2 mi)",
+            "protect_night": "11.1 km (6.9 mi)"
+        }
+    },
+    "1093": {
+        "guide_no": "131P",
+        "material_name": "Acrylonitrile, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.3 km (0.8 mi)",
+            "protect_night": "2.3 km (1.5 mi)"
+        }
+    },
+    "1098": {
+        "guide_no": "131",
+        "material_name": "Allyl alcohol",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        }
+    },
+    "1135": {
+        "guide_no": "131",
+        "material_name": "Ethylene chlorohydrin",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "1143": {
+        "guide_no": "131P",
+        "material_name": "Crotonaldehyde, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "1162": {
+        "guide_no": "155",
+        "material_name": "Dimethyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        }
+    },
+    "1163": {
+        "guide_no": "131",
+        "material_name": "Dimethylhydrazine, / unsymmetrical",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.0 km (0.7 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        }
+    },
+    "1182": {
+        "guide_no": "155",
+        "material_name": "Ethyl chloroformate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "1183": {
+        "guide_no": "139",
+        "material_name": "Ethyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (0.9 mi)"
+        }
+    },
+    "1185": {
+        "guide_no": "131P",
+        "material_name": "Ethyleneimine, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        }
+    },
+    "1196": {
+        "guide_no": "155",
+        "material_name": "Ethyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.8 km (1.2 mi)",
+            "protect_night": "3.7 km (2.3 mi)"
+        }
+    },
+    "1238": {
+        "guide_no": "155",
+        "material_name": "Methyl chloroformate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.5 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.2 km (0.7 mi)",
+            "protect_night": "2.2 km (1.4 mi)"
+        }
+    },
+    "1239": {
+        "guide_no": "131",
+        "material_name": "Methyl chloromethyl ether",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "5.7 km (3.6 mi)"
+        }
+    },
+    "1242": {
+        "guide_no": "139",
+        "material_name": "Methyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.4 mi)",
+            "protect_night": "1.7 km (1.1 mi)"
+        }
+    },
+    "1244": {
+        "guide_no": "131",
+        "material_name": "Methylhydrazine",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.5 km (0.9 mi)",
+            "protect_night": "2.2 km (1.4 mi)"
+        }
+    },
+    "1250": {
+        "guide_no": "155",
+        "material_name": "Methyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.9 km (1.2 mi)"
+        }
+    },
+    "1251": {
+        "guide_no": "131P",
+        "material_name": "Methyl vinyl ketone, stabilized",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "2.8 km (1.8 mi)"
+        }
+    },
+    "1259": {
+        "guide_no": "131",
+        "material_name": "Nickel carbonyl",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "5.2 km (3.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "1295": {
+        "guide_no": "139",
+        "material_name": "Trichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (0.9 mi)"
+        }
+    },
+    "1298": {
+        "guide_no": "155",
+        "material_name": "Trimethylchlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "1305": {
+        "guide_no": "155P",
+        "material_name": "Vinyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.3 km (0.8 mi)"
+        }
+    },
+    "1340": {
+        "guide_no": "139",
+        "material_name": "Phosphorus pentasulfide, / free from yellow and / white phosphorus",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "1360": {
+        "guide_no": "139",
+        "material_name": "Calcium phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.7 km (1.7 mi)"
+        }
+    },
+    "1380": {
+        "guide_no": "135",
+        "material_name": "Pentaborane",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.0 km (1.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.0 km (1.9 mi)",
+            "protect_night": "6.5 km (4.1 mi)"
+        }
+    },
+    "1384": {
+        "guide_no": "135",
+        "material_name": "Sodium dithionite",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.1 km (1.3 mi)"
+        }
+    },
+    "1390": {
+        "guide_no": "139",
+        "material_name": "Alkali metal amides",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        }
+    },
+    "1397": {
+        "guide_no": "139",
+        "material_name": "Aluminum phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.6 km (1.0 mi)",
+            "protect_night": "4.7 km (2.9 mi)"
+        }
+    },
+    "1419": {
+        "guide_no": "139",
+        "material_name": "Magnesium aluminum / phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "4.1 km (2.6 mi)"
+        }
+    },
+    "1432": {
+        "guide_no": "139",
+        "material_name": "Sodium phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.0 km (1.9 mi)"
+        }
+    },
+    "1510": {
+        "guide_no": "143",
+        "material_name": "Tetranitromethane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        }
+    },
+    "1541": {
+        "guide_no": "156",
+        "material_name": "Acetone cyanohydrin, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "1556": {
+        "guide_no": "152",
+        "material_name": "Methyldichloroarsine",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "2.2 km (1.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "4.0 km (2.5 mi)",
+            "protect_night": "5.8 km (3.6 mi)"
+        }
+    },
+    "1560": {
+        "guide_no": "157",
+        "material_name": "Arsenic chloride / Arsenic trichloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.0 km (0.7 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        }
+    },
+    "1569": {
+        "guide_no": "131",
+        "material_name": "Bromoacetone",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.8 km (1.1 mi)",
+            "protect_night": "3.3 km (2.1 mi)"
+        }
+    },
+    "1580": {
+        "guide_no": "154",
+        "material_name": "Chloropicrin",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.4 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.4 km (1.5 mi)",
+            "protect_night": "3.7 km (2.3 mi)"
+        }
+    },
+    "1581": {
+        "guide_no": "123",
+        "material_name": "Chloropicrin and methyl / bromide mixture",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "2.1 km (1.3 mi)",
+            "protect_night": "5.9 km (3.7 mi)"
+        }
+    },
+    "1582": {
+        "guide_no": "119",
+        "material_name": "Chloropicrin and methyl / chloride mixture",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.1 km (1.3 mi)"
+        }
+    },
+    "1583": {
+        "guide_no": "154",
+        "material_name": "Chloropicrin mixture, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "2.1 km (1.3 mi)",
+            "protect_night": "5.9 km (3.7 mi)"
+        }
+    },
+    "1589": {
+        "guide_no": "125",
+        "material_name": "Cyanogen chloride, stabilized",
+        "small_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.9 km (1.2 mi)",
+            "protect_night": "6.6 km (4.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "1595": {
+        "guide_no": "156",
+        "material_name": "Dimethyl sulfate / Dimethyl sulphate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        }
+    },
+    "1605": {
+        "guide_no": "154",
+        "material_name": "Ethylene dibromide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        }
+    },
+    "1612": {
+        "guide_no": "123",
+        "material_name": "Hexaethyl tetraphosphate and / compressed gas mixture",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.7 km (1.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "3.5 km (2.2 mi)",
+            "protect_night": "8.1 km (5.1 mi)"
+        }
+    },
+    "1613": {
+        "guide_no": "154",
+        "material_name": "Hydrocyanic acid, aqueous / solution, with not more than",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        }
+    },
+    "1614": {
+        "guide_no": "152",
+        "material_name": "Hydrogen cyanide, stabilized",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        }
+    },
+    "1647": {
+        "guide_no": "151",
+        "material_name": "Methyl bromide and ethylene / dibromide mixture, liquid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "1660": {
+        "guide_no": "124",
+        "material_name": "Nitric oxide, compressed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.2 km (1.4 mi)"
+        }
+    },
+    "1670": {
+        "guide_no": "157",
+        "material_name": "Perchloromethyl mercaptan",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.3 km (0.8 mi)"
+        }
+    },
+    "1672": {
+        "guide_no": "151",
+        "material_name": "Phenylcarbylamine chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        }
+    },
+    "1680": {
+        "guide_no": "157",
+        "material_name": "Potassium cyanide, solid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        }
+    },
+    "1689": {
+        "guide_no": "157",
+        "material_name": "Sodium cyanide, solid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "1695": {
+        "guide_no": "131",
+        "material_name": "Chloroacetone, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        }
+    },
+    "1716": {
+        "guide_no": "156",
+        "material_name": "Acetyl bromide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        }
+    },
+    "1717": {
+        "guide_no": "155",
+        "material_name": "Acetyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.4 mi)",
+            "protect_night": "2.0 km (1.2 mi)"
+        }
+    },
+    "1722": {
+        "guide_no": "155",
+        "material_name": "Allyl chlorocarbonate / Allyl chloroformate",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.5 km (0.9 mi)",
+            "protect_night": "2.4 km (1.5 mi)"
+        }
+    },
+    "1724": {
+        "guide_no": "155",
+        "material_name": "Allyltrichlorosilane, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        }
+    },
+    "1725": {
+        "guide_no": "137",
+        "material_name": "Aluminum bromide, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        }
+    },
+    "1726": {
+        "guide_no": "137",
+        "material_name": "Aluminum chloride, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        }
+    },
+    "1728": {
+        "guide_no": "156",
+        "material_name": "Amyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.2 km (0.7 mi)"
+        }
+    },
+    "1732": {
+        "guide_no": "157",
+        "material_name": "Antimony pentafluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "3.0 km (1.9 mi)"
+        }
+    },
+    "1741": {
+        "guide_no": "125",
+        "material_name": "Boron trichloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.3 km (0.8 mi)"
+        }
+    },
+    "1744": {
+        "guide_no": "154",
+        "material_name": "Bromine, solution",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.4 km (1.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "4.2 km (2.6 mi)",
+            "protect_night": "7.6 km (4.7 mi)"
+        }
+    },
+    "1745": {
+        "guide_no": "144",
+        "material_name": "Bromine pentafluoride",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.9 km (0.5 mi)",
+            "protect_night": "2.7 km (1.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "500 m (1500 ft)",
+            "protect_day": "5.7 km (3.6 mi)",
+            "protect_night": "10.8 km (6.7 mi)"
+        }
+    },
+    "1746": {
+        "guide_no": "144",
+        "material_name": "Bromine trifluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "1747": {
+        "guide_no": "155",
+        "material_name": "Butyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.2 km (0.7 mi)"
+        }
+    },
+    "1749": {
+        "guide_no": "124",
+        "material_name": "Chlorine trifluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "3.7 km (2.3 mi)"
+        }
+    },
+    "1752": {
+        "guide_no": "156",
+        "material_name": "Chloroacetyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.2 km (0.8 mi)",
+            "protect_night": "1.9 km (1.2 mi)"
+        }
+    },
+    "1753": {
+        "guide_no": "156",
+        "material_name": "Chlorophenyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.4 mi)"
+        }
+    },
+    "1754": {
+        "guide_no": "137",
+        "material_name": "Chlorosulfonic acid (with or / without sulfur trioxide)",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "1758": {
+        "guide_no": "137",
+        "material_name": "Chromium oxychloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "1762": {
+        "guide_no": "156",
+        "material_name": "Cyclohexenyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "1763": {
+        "guide_no": "156",
+        "material_name": "Cyclohexyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "1765": {
+        "guide_no": "156",
+        "material_name": "Dichloroacetyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "1766": {
+        "guide_no": "156",
+        "material_name": "Dichlorophenyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.4 km (0.9 mi)"
+        }
+    },
+    "1767": {
+        "guide_no": "155",
+        "material_name": "Diethyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        }
+    },
+    "1769": {
+        "guide_no": "156",
+        "material_name": "Diphenyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "1771": {
+        "guide_no": "156",
+        "material_name": "Dodecyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "1777": {
+        "guide_no": "137",
+        "material_name": "Fluorosulfonic acid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "1781": {
+        "guide_no": "156",
+        "material_name": "Hexadecyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "1784": {
+        "guide_no": "156",
+        "material_name": "Hexyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "1799": {
+        "guide_no": "156",
+        "material_name": "Nonyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "1800": {
+        "guide_no": "156",
+        "material_name": "Octadecyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "1801": {
+        "guide_no": "156",
+        "material_name": "Octyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "1804": {
+        "guide_no": "156",
+        "material_name": "Phenyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "1806": {
+        "guide_no": "137",
+        "material_name": "Phosphorus pentachloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "1808": {
+        "guide_no": "137",
+        "material_name": "Phosphorus tribromide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        }
+    },
+    "1809": {
+        "guide_no": "137",
+        "material_name": "Phosphorus trichloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "2.0 km (1.3 mi)"
+        }
+    },
+    "1810": {
+        "guide_no": "137",
+        "material_name": "Phosphorus oxychloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "1.8 km (1.2 mi)"
+        }
+    },
+    "1815": {
+        "guide_no": "155",
+        "material_name": "Propionyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "1816": {
+        "guide_no": "155",
+        "material_name": "Propyltrichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.3 km (0.8 mi)"
+        }
+    },
+    "1818": {
+        "guide_no": "157",
+        "material_name": "Silicon tetrachloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.0 km (1.3 mi)"
+        }
+    },
+    "1828": {
+        "guide_no": "137",
+        "material_name": "Sulfur chlorides",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        }
+    },
+    "1829": {
+        "guide_no": "137",
+        "material_name": "Sulfur trioxide, stabilized / Sulphur trioxide, stabilized",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "2.9 km (1.8 mi)",
+            "protect_night": "6.3 km (4.0 mi)"
+        }
+    },
+    "1831": {
+        "guide_no": "137",
+        "material_name": "Sulfuric acid, fuming / Sulphuric acid, fuming",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "2.9 km (1.8 mi)",
+            "protect_night": "6.3 km (4.0 mi)"
+        }
+    },
+    "1834": {
+        "guide_no": "137",
+        "material_name": "Sulfuryl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.5 km (0.9 mi)"
+        }
+    },
+    "1836": {
+        "guide_no": "137",
+        "material_name": "Thionyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.5 km (0.4 mi)"
+        }
+    },
+    "1838": {
+        "guide_no": "137",
+        "material_name": "Titanium tetrachloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "1859": {
+        "guide_no": "125",
+        "material_name": "Silicon tetrafluoride, / compressed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.8 km (1.2 mi)"
+        }
+    },
+    "1892": {
+        "guide_no": "151",
+        "material_name": "Ethyldichloroarsine",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.5 km (1.0 mi)",
+            "protect_night": "2.2 km (1.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "5.1 km (3.2 mi)",
+            "protect_night": "6.4 km (4.0 mi)"
+        }
+    },
+    "1898": {
+        "guide_no": "156",
+        "material_name": "Acetyl iodide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "1911": {
+        "guide_no": "119",
+        "material_name": "Diborane mixtures",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.2 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.6 km (1.0 mi)",
+            "protect_night": "4.6 km (2.9 mi)"
+        }
+    },
+    "1923": {
+        "guide_no": "135",
+        "material_name": "Calcium dithionite",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.4 mi)",
+            "protect_night": "2.1 km (1.3 mi)"
+        }
+    },
+    "1929": {
+        "guide_no": "135",
+        "material_name": "Potassium dithionite",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.9 km (1.2 mi)"
+        }
+    },
+    "1931": {
+        "guide_no": "171",
+        "material_name": "Zinc dithionite",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.9 km (1.2 mi)"
+        }
+    },
+    "1953": {
+        "guide_no": "119",
+        "material_name": "Compressed gas, poisonous, / flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "1955": {
+        "guide_no": "123",
+        "material_name": "Compressed gas, / poisonous, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "1967": {
+        "guide_no": "123",
+        "material_name": "Insecticide gas, poisonous, / Insecticide gas, toxic, n.o.s. / Parathion and compressed gas / mixture",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.0 km (0.7 mi)",
+            "protect_night": "3.4 km (2.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "500 m (1500 ft)",
+            "protect_day": "4.4 km (2.7 mi)",
+            "protect_night": "9.6 km (6.0 mi)"
+        }
+    },
+    "1975": {
+        "guide_no": "124",
+        "material_name": "Nitric oxide and dinitrogen / tetroxide mixture / Nitric oxide and nitrogen / dioxide mixture",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "2.2 km (1.4 mi)"
+        }
+    },
+    "1994": {
+        "guide_no": "136",
+        "material_name": "Iron pentacarbonyl",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.9 km (0.6 mi)",
+            "protect_night": "2.1 km (1.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "5.2 km (3.2 mi)",
+            "protect_night": "7.8 km (4.8 mi)"
+        }
+    },
+    "2004": {
+        "guide_no": "135",
+        "material_name": "Magnesium diamide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        }
+    },
+    "2011": {
+        "guide_no": "139",
+        "material_name": "Magnesium phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        }
+    },
+    "2012": {
+        "guide_no": "139",
+        "material_name": "Potassium phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "0.9 km (0.6 mi)",
+            "protect_night": "2.8 km (1.8 mi)"
+        }
+    },
+    "2013": {
+        "guide_no": "139",
+        "material_name": "Strontium phosphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.7 km (1.7 mi)"
+        }
+    },
+    "2032": {
+        "guide_no": "157",
+        "material_name": "Nitric acid, red fuming",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "2186": {
+        "guide_no": "125",
+        "material_name": "Hydrogen chloride, / refrigerated liquid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "note": "Refer to Table 3"
+        }
+    },
+    "2188": {
+        "guide_no": "119",
+        "material_name": "Arsine",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "2189": {
+        "guide_no": "119",
+        "material_name": "Dichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "3.1 km (1.9 mi)"
+        }
+    },
+    "2190": {
+        "guide_no": "124",
+        "material_name": "Oxygen difluoride, compressed 300 m (1000 ft)",
+        "small_spill": {
+            "isolation_distance": "1.8 km (1.1 mi)",
+            "protect_day": "7.2 km (4.5 mi)",
+            "protect_night": "1000 m (3000 ft)"
+        },
+        "large_spill": {}
+    },
+    "2191": {
+        "guide_no": "123",
+        "material_name": "Sulfuryl fluoride / Sulphuryl fluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "2.2 km (1.4 mi)",
+            "protect_night": "5.0 km (3.1 mi)"
+        }
+    },
+    "2192": {
+        "guide_no": "119",
+        "material_name": "Germane",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.9 km (0.5 mi)",
+            "protect_night": "3.3 km (2.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "3.6 km (2.3 mi)",
+            "protect_night": "7.4 km (4.6 mi)"
+        }
+    },
+    "2194": {
+        "guide_no": "125",
+        "material_name": "Selenium hexafluoride",
+        "small_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "3.4 km (2.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "3.9 km (2.4 mi)",
+            "protect_night": "7.6 km (4.8 mi)"
+        }
+    },
+    "2195": {
+        "guide_no": "125",
+        "material_name": "Tellurium hexafluoride",
+        "small_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "5.9 km (3.7 mi)",
+            "protect_night": "11.1 km (6.9 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "2196": {
+        "guide_no": "125",
+        "material_name": "Tungsten hexafluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.8 km (1.7 mi)"
+        }
+    },
+    "2197": {
+        "guide_no": "125",
+        "material_name": "Hydrogen iodide, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "2.7 km (1.7 mi)"
+        }
+    },
+    "2198": {
+        "guide_no": "125",
+        "material_name": "Phosphorus pentafluoride, / compressed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "1.0 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "3.5 km (2.2 mi)"
+        }
+    },
+    "2199": {
+        "guide_no": "119",
+        "material_name": "Phosphine",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.3 km (0.8 mi)",
+            "protect_night": "3.7 km (2.3 mi)"
+        }
+    },
+    "2202": {
+        "guide_no": "117",
+        "material_name": "Hydrogen selenide, anhydrous",
+        "small_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "6.0 km (3.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "2204": {
+        "guide_no": "119",
+        "material_name": "Carbonyl sulfide / Carbonyl sulphide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.5 km (1.0 mi)",
+            "protect_night": "3.6 km (2.3 mi)"
+        }
+    },
+    "2232": {
+        "guide_no": "153",
+        "material_name": "Chloroacetaldehyde",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.4 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        }
+    },
+    "2285": {
+        "guide_no": "155",
+        "material_name": "Isocyanatobenzotrifluorides",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        }
+    },
+    "2308": {
+        "guide_no": "157",
+        "material_name": "Nitrosylsulfuric acid, liquid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.3 km (1.4 mi)"
+        }
+    },
+    "2334": {
+        "guide_no": "131",
+        "material_name": "Allylamine",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.6 km (1.0 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        }
+    },
+    "2337": {
+        "guide_no": "131",
+        "material_name": "Phenyl mercaptan",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        }
+    },
+    "2353": {
+        "guide_no": "155",
+        "material_name": "Butyryl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "2382": {
+        "guide_no": "131",
+        "material_name": "Dimethylhydrazine, / symmetrical",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.3 km (0.8 mi)"
+        }
+    },
+    "2395": {
+        "guide_no": "155",
+        "material_name": "Isobutyryl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "2407": {
+        "guide_no": "155",
+        "material_name": "Isopropyl chloroformate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "2417": {
+        "guide_no": "125",
+        "material_name": "Carbonyl fluoride",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "3.8 km (2.4 mi)",
+            "protect_night": "8.2 km (5.1 mi)"
+        }
+    },
+    "2418": {
+        "guide_no": "125",
+        "material_name": "Sulfur tetrafluoride / Sulphur tetrafluoride",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.4 km (1.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "2.4 km (1.5 mi)",
+            "protect_night": "5.9 km (3.7 mi)"
+        }
+    },
+    "2420": {
+        "guide_no": "125",
+        "material_name": "Hexafluoroacetone",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.7 km (0.4 mi)",
+            "protect_night": "2.7 km (1.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "2421": {
+        "guide_no": "124",
+        "material_name": "Nitrogen trioxide",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "4.3 km (2.7 mi)"
+        }
+    },
+    "2434": {
+        "guide_no": "156",
+        "material_name": "Dibenzyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "2435": {
+        "guide_no": "156",
+        "material_name": "Ethylphenyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        }
+    },
+    "2437": {
+        "guide_no": "156",
+        "material_name": "Methylphenyldichlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "2438": {
+        "guide_no": "131",
+        "material_name": "Trimethylacetyl chloride",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.0 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.3 km (1.5 mi)",
+            "protect_night": "3.3 km (2.1 mi)"
+        }
+    },
+    "2442": {
+        "guide_no": "156",
+        "material_name": "Trichloroacetyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        }
+    },
+    "2474": {
+        "guide_no": "156",
+        "material_name": "Thiophosgene",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.3 km (1.4 mi)",
+            "protect_night": "4.2 km (2.6 mi)"
+        }
+    },
+    "2477": {
+        "guide_no": "131",
+        "material_name": "Methyl isothiocyanate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        }
+    },
+    "2478": {
+        "guide_no": "155",
+        "material_name": "Isocyanate solution, flammable, / poisonous, n.o.s. / toxic, n.o.s. / Isocyanates, flammable, toxic,",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.8 km (1.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "4.7 km (3.0 mi)",
+            "protect_night": "7.0 km (4.4 mi)"
+        }
+    },
+    "2480": {
+        "guide_no": "155P",
+        "material_name": "Methyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "5.2 km (3.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "2481": {
+        "guide_no": "155",
+        "material_name": "Ethyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "2.0 km (1.3 mi)",
+            "protect_night": "5.3 km (3.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "2482": {
+        "guide_no": "155P",
+        "material_name": "n-Propyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.3 km (0.8 mi)",
+            "protect_night": "2.8 km (1.8 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "7.8 km (4.8 mi)",
+            "protect_night": "10.7 km (6.6 mi)"
+        }
+    },
+    "2483": {
+        "guide_no": "155P",
+        "material_name": "Isopropyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.5 km (1.0 mi)",
+            "protect_night": "3.3 km (2.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "2484": {
+        "guide_no": "155",
+        "material_name": "tert-Butyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.8 km (1.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "4.7 km (3.0 mi)",
+            "protect_night": "7.0 km (4.4 mi)"
+        }
+    },
+    "2485": {
+        "guide_no": "155P",
+        "material_name": "n-Butyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.2 km (0.8 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "2.9 km (1.8 mi)",
+            "protect_night": "4.2 km (2.6 mi)"
+        }
+    },
+    "2486": {
+        "guide_no": "155P",
+        "material_name": "Isobutyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.3 km (0.8 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "4.8 km (3.0 mi)"
+        }
+    },
+    "2487": {
+        "guide_no": "155",
+        "material_name": "Phenyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.9 km (0.6 mi)",
+            "protect_night": "1.5 km (0.9 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "4.2 km (2.6 mi)",
+            "protect_night": "5.4 km (3.4 mi)"
+        }
+    },
+    "2488": {
+        "guide_no": "155",
+        "material_name": "Cyclohexyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "1.4 km (0.9 mi)"
+        }
+    },
+    "2495": {
+        "guide_no": "144",
+        "material_name": "Iodine pentafluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.9 km (0.6 mi)",
+            "protect_night": "3.2 km (2.0 mi)"
+        }
+    },
+    "2521": {
+        "guide_no": "131P",
+        "material_name": "Diketene, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.4 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "2534": {
+        "guide_no": "119",
+        "material_name": "Methylchlorosilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        }
+    },
+    "2548": {
+        "guide_no": "124",
+        "material_name": "Chlorine pentafluoride",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "5.1 km (3.2 mi)"
+        }
+    },
+    "2605": {
+        "guide_no": "155",
+        "material_name": "Methoxymethyl isocyanate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "2606": {
+        "guide_no": "155",
+        "material_name": "Methyl orthosilicate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        }
+    },
+    "2644": {
+        "guide_no": "151",
+        "material_name": "Methyl iodide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        }
+    },
+    "2646": {
+        "guide_no": "151",
+        "material_name": "Hexachlorocyclopentadiene",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "2668": {
+        "guide_no": "131",
+        "material_name": "Chloroacetonitrile",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.2 mi)"
+        }
+    },
+    "2676": {
+        "guide_no": "119",
+        "material_name": "Stibine",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.3 km (0.8 mi)",
+            "protect_night": "4.1 km (2.6 mi)"
+        }
+    },
+    "2691": {
+        "guide_no": "137",
+        "material_name": "Phosphorus pentabromide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        }
+    },
+    "2692": {
+        "guide_no": "157",
+        "material_name": "Boron tribromide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        }
+    },
+    "2740": {
+        "guide_no": "155",
+        "material_name": "n-Propyl chloroformate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.0 km (0.7 mi)"
+        }
+    },
+    "2742": {
+        "guide_no": "155",
+        "material_name": "Chloroformates, poisonous, / corrosive, flammable, n.o.s. / Chloroformates, toxic,",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "2743": {
+        "guide_no": "155",
+        "material_name": "n-Butyl chloroformate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        }
+    },
+    "2806": {
+        "guide_no": "139",
+        "material_name": "Lithium nitride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "2826": {
+        "guide_no": "155",
+        "material_name": "Ethyl chlorothioformate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        }
+    },
+    "2845": {
+        "guide_no": "135",
+        "material_name": "Ethyl phosphonous dichloride, / anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "2.3 km (1.4 mi)"
+        }
+    },
+    "2901": {
+        "guide_no": "124",
+        "material_name": "Bromine chloride",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "5.7 km (3.5 mi)"
+        }
+    },
+    "2927": {
+        "guide_no": "154",
+        "material_name": "Ethyl phosphonothioic / dichloride, anhydrous",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        }
+    },
+    "2965": {
+        "guide_no": "139",
+        "material_name": "Boron trifluoride / dimethyl etherate",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.9 km (0.6 mi)",
+            "protect_night": "2.8 km (1.7 mi)"
+        }
+    },
+    "2977": {
+        "guide_no": "166",
+        "material_name": "Radioactive material, / uranium hexafluoride, fissile",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "2978": {
+        "guide_no": "166",
+        "material_name": "Radioactive material, / uranium hexafluoride, non / fissile or fissile-excepted",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.2 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "2985": {
+        "guide_no": "155",
+        "material_name": "Chlorosilanes, flammable, / corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "2986": {
+        "guide_no": "155",
+        "material_name": "Chlorosilanes, corrosive, / flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "2987": {
+        "guide_no": "156",
+        "material_name": "Chlorosilanes, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "2988": {
+        "guide_no": "139",
+        "material_name": "Chlorosilanes, water-reactive, / flammable, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "3023": {
+        "guide_no": "131",
+        "material_name": "",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "3048": {
+        "guide_no": "157",
+        "material_name": "Aluminum phosphide pesticide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "400 m (1250 ft)",
+            "protect_day": "1.6 km (1.0 mi)",
+            "protect_night": "4.5 km (2.8 mi)"
+        }
+    },
+    "3057": {
+        "guide_no": "125",
+        "material_name": "Trifluoroacetyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "4.9 km (3.1 mi)"
+        }
+    },
+    "3079": {
+        "guide_no": "131P",
+        "material_name": "Methacrylonitrile, stabilized",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "2.8 km (1.7 mi)"
+        }
+    },
+    "3083": {
+        "guide_no": "124",
+        "material_name": "Perchloryl fluoride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "5.5 km (3.4 mi)",
+            "protect_night": "10.9 km (6.8 mi)"
+        }
+    },
+    "3160": {
+        "guide_no": "119",
+        "material_name": "Liquefied gas, poisonous, / flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "3162": {
+        "guide_no": "123",
+        "material_name": "Liquefied gas, poisonous, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "3246": {
+        "guide_no": "156",
+        "material_name": "Methanesulfonyl chloride / Methanesulphonyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "1.0 km (0.6 mi)"
+        }
+    },
+    "3275": {
+        "guide_no": "131",
+        "material_name": "Nitriles, poisonous, / flammable, n.o.s. / Nitriles, toxic,",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "2.8 km (1.7 mi)"
+        }
+    },
+    "3276": {
+        "guide_no": "151",
+        "material_name": "Nitriles, liquid, poisonous, n.o.s. / Nitriles, liquid, toxic, n.o.s. / Nitriles, poisonous, liquid, n.o.s. / Nitriles, toxic, liquid, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "2.8 km (1.7 mi)"
+        }
+    },
+    "3278": {
+        "guide_no": "151",
+        "material_name": "Organophosphorus compound, / liquid, poisonous, n.o.s. / liquid, toxic, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.2 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.6 km (1.6 mi)",
+            "protect_night": "4.2 km (2.6 mi)"
+        }
+    },
+    "3279": {
+        "guide_no": "131",
+        "material_name": "Organophosphorus compound, / poisonous, flammable, n.o.s. / toxic, flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.4 km (0.3 mi)",
+            "protect_night": "1.2 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.6 km (1.6 mi)",
+            "protect_night": "4.2 km (2.6 mi)"
+        }
+    },
+    "3280": {
+        "guide_no": "151",
+        "material_name": "Organoarsenic compound, / liquid, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "3.6 km (2.2 mi)"
+        }
+    },
+    "3281": {
+        "guide_no": "151",
+        "material_name": "Metal carbonyls, liquid, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "5.2 km (3.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)"
+        }
+    },
+    "3294": {
+        "guide_no": "131",
+        "material_name": "Hydrogen cyanide, solution in / alcohol, with not more than",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "2.0 km (1.2 mi)"
+        }
+    },
+    "3300": {
+        "guide_no": "119P",
+        "material_name": "Ethylene oxide and carbon / dioxide mixture, with more / than 87% ethylene oxide",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.7 km (0.5 mi)",
+            "protect_night": "2.0 km (1.2 mi)"
+        }
+    },
+    "3303": {
+        "guide_no": "124",
+        "material_name": "Compressed gas, / poisonous, oxidizing, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "5.1 km (3.2 mi)",
+            "protect_night": "30 m (100 ft)"
+        }
+    },
+    "3304": {
+        "guide_no": "125",
+        "material_name": "Compressed gas, / poisonous, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "3.4 km (2.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "3.9 km (2.4 mi)",
+            "protect_night": "7.6 km (4.8 mi)"
+        }
+    },
+    "3305": {
+        "guide_no": "119",
+        "material_name": "Compressed gas, poisonous, / flammable, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "3306": {
+        "guide_no": "124",
+        "material_name": "Compressed gas, poisonous, / oxidizing, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "5.5 km (3.4 mi)",
+            "protect_night": "30 m (100 ft)"
+        }
+    },
+    "3307": {
+        "guide_no": "124",
+        "material_name": "Liquefied gas, poisonous, / oxidizing, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "5.1 km (3.2 mi)",
+            "protect_night": "30 m (100 ft)"
+        }
+    },
+    "3308": {
+        "guide_no": "125",
+        "material_name": "Liquefied gas, poisonous, / corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.1 km (0.7 mi)",
+            "protect_night": "3.4 km (2.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "600 m (2000 ft)",
+            "protect_day": "3.9 km (2.4 mi)",
+            "protect_night": "7.6 km (4.8 mi)"
+        }
+    },
+    "3309": {
+        "guide_no": "119",
+        "material_name": "Liquefied gas, poisonous, / flammable, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "3310": {
+        "guide_no": "124",
+        "material_name": "Liquefied gas, poisonous, / oxidizing, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "2.5 km (1.6 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "5.1 km (3.2 mi)",
+            "protect_night": "30 m (100 ft)"
+        }
+    },
+    "3318": {
+        "guide_no": "125",
+        "material_name": "Ammonia solution, with more / than 50% ammonia",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.8 km (0.5 mi)",
+            "protect_night": "2.0 km (1.3 mi)"
+        }
+    },
+    "3355": {
+        "guide_no": "119",
+        "material_name": "Insecticide gas, poisonous, / flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.0 km (0.6 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "1000 m (3000 ft)",
+            "protect_day": "6.2 km (3.9 mi)",
+            "protect_night": "10.5 km (6.5 mi)"
+        }
+    },
+    "3361": {
+        "guide_no": "156",
+        "material_name": "Chlorosilanes, poisonous, / corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "3362": {
+        "guide_no": "155",
+        "material_name": "Chlorosilanes, poisonous, / corrosive, flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.6 km (1.0 mi)"
+        }
+    },
+    "3381": {
+        "guide_no": "151",
+        "material_name": "Poisonous by inhalation / liquid, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.3 km (1.4 mi)",
+            "protect_night": "4.2 km (2.6 mi)"
+        }
+    },
+    "3382": {
+        "guide_no": "151",
+        "material_name": "Poisonous by inhalation / liquid, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "3383": {
+        "guide_no": "131",
+        "material_name": "Poisonous by inhalation / liquid, flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "5.7 km (3.6 mi)"
+        }
+    },
+    "3384": {
+        "guide_no": "131",
+        "material_name": "Poisonous by inhalation / liquid, flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "3385": {
+        "guide_no": "139",
+        "material_name": "Poisonous by inhalation / liquid, water-reactive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "1.8 km (1.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "2.3 km (1.4 mi)",
+            "protect_night": "4.2 km (2.6 mi)"
+        }
+    },
+    "3386": {
+        "guide_no": "139",
+        "material_name": "Poisonous by inhalation / liquid, water-reactive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "3387": {
+        "guide_no": "142",
+        "material_name": "Poisonous by inhalation / liquid, oxidizing, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "5.7 km (3.6 mi)"
+        }
+    },
+    "3388": {
+        "guide_no": "142",
+        "material_name": "Poisonous by inhalation / liquid, oxidizing, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "3389": {
+        "guide_no": "154",
+        "material_name": "Poisonous by inhalation / liquid, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "100 m (300 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "0.7 km (0.5 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "800 m (2500 ft)",
+            "protect_day": "1.7 km (1.1 mi)",
+            "protect_night": "2.8 km (1.8 mi)"
+        }
+    },
+    "3390": {
+        "guide_no": "154",
+        "material_name": "Poisonous by inhalation / liquid, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        }
+    },
+    "3456": {
+        "guide_no": "157",
+        "material_name": "Nitrosylsulfuric acid, solid",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.4 km (0.3 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "0.7 km (0.4 mi)",
+            "protect_night": "2.3 km (1.5 mi)"
+        }
+    },
+    "3488": {
+        "guide_no": "131",
+        "material_name": "Poisonous by inhalation liquid, / flammable, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "5.7 km (3.6 mi)"
+        }
+    },
+    "3489": {
+        "guide_no": "131",
+        "material_name": "Poisonous by inhalation liquid, / flammable, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "3490": {
+        "guide_no": "155",
+        "material_name": "Poisonous by inhalation liquid, / water-reactive, flammable, / n.o.s. (Inhalation Hazard / Zone A) / Toxic by inhalation liquid,",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "5.7 km (3.6 mi)"
+        }
+    },
+    "3491": {
+        "guide_no": "155",
+        "material_name": "Poisonous by inhalation liquid, / water-reactive, flammable, / n.o.s. (Inhalation Hazard / Zone B) / Toxic by inhalation liquid,",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "3492": {
+        "guide_no": "131",
+        "material_name": "Poisonous by inhalation liquid, / corrosive, flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "1.5 km (1.0 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "3.4 km (2.1 mi)",
+            "protect_night": "5.7 km (3.6 mi)"
+        }
+    },
+    "3493": {
+        "guide_no": "131",
+        "material_name": "Poisonous by inhalation liquid, / corrosive, flammable, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.6 km (0.4 mi)",
+            "protect_night": "0.9 km (0.6 mi)"
+        }
+    },
+    "3494": {
+        "guide_no": "131",
+        "material_name": "Petroleum sour crude oil, / flammable, poisonous / flammable, toxic",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.8 km (0.5 mi)"
+        }
+    },
+    "3507": {
+        "guide_no": "166",
+        "material_name": "Uranium hexafluoride, / radioactive material, excepted / package, less than 0.1 kg / per package, non-fissile or / fissile-excepted",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3512": {
+        "guide_no": "173",
+        "material_name": "Adsorbed gas, poisonous, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3514": {
+        "guide_no": "173",
+        "material_name": "Adsorbed gas, poisonous, / flammable, n.o.s. (Inhalation / Hazard Zone A) / Hazard Zone B) / Hazard Zone C) / Hazard Zone D)",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3515": {
+        "guide_no": "173",
+        "material_name": "Adsorbed gas, poisonous, / oxidizing, n.o.s. (Inhalation / Hazard Zone A) / Hazard Zone B) / Hazard Zone C) / Hazard Zone D)",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3516": {
+        "guide_no": "173",
+        "material_name": "Adsorbed gas, poisonous, / corrosive, n.o.s. (Inhalation / Hazard Zone A) / Hazard Zone B) / Hazard Zone C) / Hazard Zone D)",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3517": {
+        "guide_no": "173",
+        "material_name": "Adsorbed gas, poisonous, / flammable, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3518": {
+        "guide_no": "173",
+        "material_name": "Adsorbed gas, poisonous, / oxidizing, corrosive, n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3519": {
+        "guide_no": "173",
+        "material_name": "Boron trifluoride, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3520": {
+        "guide_no": "173",
+        "material_name": "Chlorine, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3521": {
+        "guide_no": "173",
+        "material_name": "Silicon tetrafluoride, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3522": {
+        "guide_no": "173",
+        "material_name": "Arsine, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3523": {
+        "guide_no": "173",
+        "material_name": "Germane, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3524": {
+        "guide_no": "173",
+        "material_name": "Phosphorus pentafluoride, / adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3525": {
+        "guide_no": "173",
+        "material_name": "Phosphine, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3526": {
+        "guide_no": "173",
+        "material_name": "Hydrogen selenide, adsorbed",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        }
+    },
+    "3539": {
+        "guide_no": "123",
+        "material_name": "Articles containing toxic gas, / n.o.s.",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.3 km (0.2 mi)",
+            "protect_night": "1.1 km (0.7 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "300 m (1000 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "3.7 km (2.3 mi)"
+        }
+    },
+    "9191": {
+        "guide_no": "143",
+        "material_name": "Chlorine dioxide, hydrate, frozen",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.5 km (0.3 mi)"
+        }
+    },
+    "9202": {
+        "guide_no": "168",
+        "material_name": "Carbon monoxide, refrigerated / liquid (cryogenic liquid)",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "200 m (600 ft)",
+            "protect_day": "1.2 km (0.7 mi)",
+            "protect_night": "3.9 km (2.4 mi)"
+        }
+    },
+    "9206": {
+        "guide_no": "137",
+        "material_name": "Methyl phosphonic dichloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.1 mi)",
+            "protect_night": "0.2 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "60 m (200 ft)",
+            "protect_day": "0.5 km (0.3 mi)",
+            "protect_night": "0.6 km (0.4 mi)"
+        }
+    },
+    "9263": {
+        "guide_no": "156",
+        "material_name": "Chloropivaloyl chloride",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "9264": {
+        "guide_no": "151",
+        "material_name": "",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.1 km (0.1 mi)",
+            "protect_night": "0.1 km (0.1 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.3 km (0.2 mi)"
+        }
+    },
+    "9269": {
+        "guide_no": "132",
+        "material_name": "Trimethoxysilane",
+        "small_spill": {
+            "isolation_distance": "30 m (100 ft)",
+            "protect_day": "0.2 km (0.2 mi)",
+            "protect_night": "0.7 km (0.4 mi)"
+        },
+        "large_spill": {
+            "isolation_distance": "150 m (500 ft)",
+            "protect_day": "1.4 km (0.9 mi)",
+            "protect_night": "2.4 km (1.5 mi)"
+        }
+    }
+}
