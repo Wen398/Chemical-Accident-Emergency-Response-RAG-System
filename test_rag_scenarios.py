@@ -53,7 +53,7 @@ class ERG_Agent_Tester:
         
         results = self.materials_col.query(
             query_texts=[query],
-            n_results=5 # Fetch top 5 candidates to refine
+            n_results=100 # Significantly increased window to ensure short exact names (like "Chlorine") aren't crowded out by long descriptions
         )
         elapsed = time.time() - start_time
         
@@ -85,26 +85,50 @@ class ERG_Agent_Tester:
         # Priority 2: Exact Name Match (Case Insensitive)
         if not best_match:
             query_lower = query.lower().strip()
+            
+            # Sub-strategy: Filter candidates that actually contain the query somehow first
+            # to avoid iterating irrelevant ones? No, list is small (50).
+            
+            # Sort candidates logic:
+            # 1. Exact match preferred
+            # 2. Starts with preferred
+            # 3. Shorter name preferred (Occam's razor: "Chlorine" better than "Chlorine mixture")
+            
+            # Let's verify 'exact match' explicitly first
             for cand in candidates:
-                # We check if the query matches the material name or is a significant substring
-                # e.g. "Chlorine" should match "Chlorine" or "Chlorine, liquid"
-                # but maybe not "Calcium hypochlorite..." immediately if a better match exists.
-                
-                mat_name = cand['meta']['name'].lower()
-                
-                # Perfect match
-                if mat_name == query_lower:
+                cand_name = cand['meta']['name'].lower()
+                if cand_name == query_lower:
                     best_match = cand
-                    print_info("Match Method: Exact Name")
+                    print_info(f"Match Method: Exact Name (Matched '{cand['meta']['name']}')")
                     break
-                    
-                # Split name match (e.g. "Chlorine" matches "Chlorine" part of "Chlorine")
-                # This is tricky. "Chlorine" is in "Calcium hypochlorite" too? No, "chlorine" is.
-                # Let's enforce that the name STARTS with the query or equals it, often a good heuristic.
-                if mat_name.startswith(query_lower + ",") or mat_name.startswith(query_lower + " "):
-                     if not best_match: best_match = cand # Keep looking for exact, but hold this
+            
+            # Priority 3: Starts With Match (sorted by length to find shortest "Chlorine" vs "Chlorine something")
+            if not best_match:
+                 # Filter for starts-with matches
+                 starts_with_cands = [c for c in candidates if c['meta']['name'].lower().startswith(query_lower)]
+                 if starts_with_cands:
+                     # Sort by length: shortest first ("Chlorine" < "Chlorine trifluoride")
+                     starts_with_cands.sort(key=lambda x: len(x['meta']['name']))
+                     best_match = starts_with_cands[0]
+                     print_info(f"Match Method: Name Starts With (Matched '{best_match['meta']['name']}')")
         
-        # Priority 3: Fallback to Top Vector Result
+            # Priority 4: Contains Query (but prioritize distinct word match)
+            if not best_match:
+                 # Look for query as a distinct word
+                 import re
+                 pattern = r'\b' + re.escape(query_lower) + r'\b'
+                 
+                 word_match_cands = []
+                 for c in candidates:
+                     if re.search(pattern, c['meta']['name'].lower()):
+                         word_match_cands.append(c)
+                 
+                 if word_match_cands:
+                     word_match_cands.sort(key=lambda x: len(x['meta']['name']))
+                     best_match = word_match_cands[0]
+                     print_info(f"Match Method: Semantic Word Match (Matched '{best_match['meta']['name']}')")
+        
+        # Priority 5: Fallback to Top Vector Result
         if not best_match:
             print_info("Match Method: Vector Similarity (Top 1)")
             best_match = candidates[0]
@@ -119,26 +143,63 @@ class ERG_Agent_Tester:
         return meta
 
     def consult_guide(self, guide_no: str, specific_question: str):
-        """Step 2: Consult the specific guide for a question"""
-        print_step(f"Agent thinking: Checking Guide {guide_no} regarding '{specific_question}'...")
+        """Step 2: Consult the specific guide (Returning FULL CONTENT as requested)"""
         
+        # FIX for Issue 2: Guide 128P -> 128
+        search_guide_no = guide_no
+        if guide_no.endswith('P'):
+            search_guide_no = guide_no.rstrip('P')
+            print_info(f"Note: Adjusting guide search from {guide_no} to {search_guide_no} (P suffix handled)")
+            
+        print_step(f"Agent thinking: Retrieving FULL Guide {search_guide_no} content...")
+        
+        # Retrieve ALL sections for the guide.
+        # We assume max 5 sections per guide (usually 3: Hazards, Public Safety, Emergency Response)
         results = self.guides_col.query(
-            query_texts=[specific_question],
-            n_results=1,
-            where={"guide_no": guide_no} # Contextual Filtering
+            query_texts=[specific_question], # Search text still required by API but we ignore ranking mostly
+            n_results=10, 
+            where={"guide_no": search_guide_no} # Strict filtering for this guide
         )
         
         if not results['ids'][0]:
-            print(f"{Color.WARNING}  ⚠ No specific text found in guide.{Color.ENDC}")
+            print(f"{Color.WARNING}  ⚠ Guide text not found.{Color.ENDC}")
             return
             
-        doc_text = results['documents'][0][0]
-        section = results['metadatas'][0][0]['section']
+        # Compile full text from all retrieved chunks
+        # Logic: Sort chunks by section to make sense?
+        # The chunks might come back in similarity order. We should probably sort them logically.
+        # Sections: POTENTIAL HAZARDS, PUBLIC SAFETY, EMERGENCY RESPONSE
         
-        print_result("Relevant Section", section)
-        print(f"\n{Color.BOLD}[Guide Content Snippet]{Color.ENDC}")
+        section_order = {
+            "POTENTIAL HAZARDS": 1,
+            "PUBLIC SAFETY": 2,
+            "EMERGENCY RESPONSE": 3
+        }
+        
+        # Zip documents and metadata suitable for sorting
+        chunks = []
+        for i in range(len(results['ids'][0])):
+            chunks.append({
+                "text": results['documents'][0][i],
+                "section": results['metadatas'][0][i]['section']
+            })
+            
+        # Sort based on predefined order
+        chunks.sort(key=lambda x: section_order.get(x['section'], 99))
+        
+        print_result("Action", "Retrieved / Assembled Full Guide")
+        print(f"\n{Color.BOLD}[Full Guide {search_guide_no} Content]{Color.ENDC}")
         print("------------------------------------------------")
-        print(doc_text[:600] + ("..." if len(doc_text) > 600 else ""))
+        
+        for chunk in chunks:
+            print(f"{Color.BOLD}>>> {chunk['section']} <<<{Color.ENDC}")
+            # Clean up the "GUIDE 123 - SECTION" header that was baked into the text if needed
+            # For now just printing the raw text is fine
+            clean_text = chunk['text'].replace(f"GUIDE {search_guide_no} - {chunk['section']}", "").strip()
+            print(clean_text)
+            print("...") # Separator
+            print("")
+            
         print("------------------------------------------------\n")
 
     def run_scenario(self, title: str, material_query: str, guide_query: Optional[str] = None):
@@ -153,18 +214,35 @@ class ERG_Agent_Tester:
 
         # 2. Check for Critical Hazards (Metadata Logic)
         print_info("Checking Critical Hazards...")
+        has_hazard = False
         
         if material_data['is_tih']:
-            print(f"  {Color.WARNING}⚠ TOXIC INHALATION HAZARD{Color.ENDC}")
-            print(f"    Small Spill Isolation: {material_data['small_spill_isolation']}")
-            print(f"    Large Spill Isolation: {material_data['large_spill_isolation']}")
+            has_hazard = True
+            print(f"  {Color.WARNING}⚠ TOXIC INHALATION HAZARD (TIH){Color.ENDC}")
+            print(f"    {Color.BOLD}SMALL SPILL:{Color.ENDC}")
+            print(f"      - Iso: {material_data['small_iso']}")
+            print(f"      - Protect (Day): {material_data['small_day']}")
+            print(f"      - Protect (Night): {material_data['small_night']}")
+            
+            print(f"    {Color.BOLD}LARGE SPILL:{Color.ENDC}")
+            if material_data['large_note']:
+                print(f"      - Note: {material_data['large_note']} (Placeholder for Table 3 integration)")
+            else:
+                print(f"      - Iso: {material_data['large_iso']}")
+                print(f"      - Protect (Day): {material_data['large_day']}")
+                print(f"      - Protect (Night): {material_data['large_night']}")
         
         if material_data['is_water_reactive']:
+             has_hazard = True
              print(f"  {Color.WARNING}⚠ WATER REACTIVE MATERIAL{Color.ENDC}")
              print(f"    Produces Gases: {material_data['water_reactive_gases']}")
 
         if material_data['is_polymerization']:
+             has_hazard = True
              print(f"  {Color.WARNING}⚠ POLYMERIZATION HAZARD{Color.ENDC}")
+
+        if not has_hazard:
+            print(f"  {Color.GREEN}✔ No special TIH/Water-Reactive/Polymerization hazards flagged.{Color.ENDC}")
 
         # 3. Guide Consultation (if needed)
         if guide_query:
@@ -198,55 +276,7 @@ def main():
         guide_query="Can I use water to put out the fire?"
     )
     
-    # --- Scenario 4: Polymerization Hazard ---
-    tester.run_scenario(
-        title="4. Polymerization Hazard Check",
-        material_query="Styrene monomer", 
-        guide_query="Safety precautions"
-    )
-
-    # --- Scenario 5: Evacuation (General) ---
-    tester.run_scenario(
-        title="5. Public Safety & Evacuation",
-        material_query="Propane",
-        guide_query="Evacuation distance for fire"
-    )
-
-    # --- Scenario 6: Fuzzy/Unknown Search ---
-    tester.run_scenario(
-        title="6. Fuzzy Search (Handling Typo)",
-        material_query="Amonia" # Intentionally misspelled (Ammonia)
-    )
-
-    # --- Scenario 7: Exact vs Partial Match Test (Chlorine Fix) ---
-    tester.run_scenario(
-        title="7. Exact Name Match Priority",
-        material_query="Chlorine", 
-        guide_query="Health hazards"
-    )
-
-    # --- Scenario 8: Search by UN ID ---
-    tester.run_scenario(
-        title="8. Search by UN ID Directly",
-        material_query="1017",  # Chlorine's ID
-        guide_query="Fire explosion hazards"
-    )
-
-    # --- Scenario 9: Complex Logic - Multiple Hazards ---
-    # Testing a material that might have multiple dangerous properties
-    tester.run_scenario(
-        title="9. Multi-Hazard Material (Hydrazine)", 
-        material_query="Hydrazine, anhydrous",
-        guide_query="Spill response"
-    )
-
-    # --- Scenario 10: Distinguishing Similar Names ---
-    # Testing distinguish between 'Butane' and 'Butadienes'
-    tester.run_scenario(
-        title="10. Similar Name Disambiguation",
-        material_query="Butane",
-        guide_query="Fire fighting"
-    )
+    
 
 if __name__ == "__main__":
     main()

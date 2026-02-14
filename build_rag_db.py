@@ -50,14 +50,35 @@ def enrich_materials(materials: List[Dict], gt1: Dict, gt2: Dict) -> List[Dict]:
     for mat in materials:
         un_id = mat['un_id']
         
+        # Initialize defaults for Green Table 1 data
+        mat['small_iso'] = ''
+        mat['small_day'] = ''
+        mat['small_night'] = ''
+        mat['large_iso'] = ''
+        mat['large_day'] = ''
+        mat['large_night'] = ''
+        mat['large_note'] = '' # For "Refer to Table 3"
+        
         # Add Green Table 1 info (Isolation Distances)
         if un_id in gt1:
             data = gt1[un_id]
-            # Flatten some key data for metadata filtering
+            
+            # Small Spill
             if 'small_spill' in data:
-                mat['small_spill_isolation'] = data['small_spill'].get('isolation_distance', '')
+                ss = data['small_spill']
+                mat['small_iso'] = ss.get('isolation_distance', '')
+                mat['small_day'] = ss.get('protect_day', '')
+                mat['small_night'] = ss.get('protect_night', '')
+                
+            # Large Spill
             if 'large_spill' in data:
-                mat['large_spill_isolation'] = data['large_spill'].get('isolation_distance', '')
+                ls = data['large_spill']
+                if "note" in ls:
+                    mat['large_note'] = ls['note']
+                else:
+                    mat['large_iso'] = ls.get('isolation_distance', '')
+                    mat['large_day'] = ls.get('protect_day', '')
+                    mat['large_night'] = ls.get('protect_night', '')
         
         # Add Green Table 2 info (Water Reactive)
         if un_id in gt2:
@@ -209,9 +230,15 @@ def main():
             "is_tih": mat['is_tih'],
             "is_polymerization": mat['is_polymerization'],
             "is_water_reactive": mat['is_water_reactive'],
-            "small_spill_isolation": mat.get('small_spill_isolation', 'N/A'),
-            "large_spill_isolation": mat.get('large_spill_isolation', 'N/A'),
-            "water_reactive_gases": mat.get('water_reactive_gases', '')
+            "water_reactive_gases": mat.get('water_reactive_gases', ''),
+            # Detailed Table 1 Data
+            "small_iso": mat['small_iso'],
+            "small_day": mat['small_day'],
+            "small_night": mat['small_night'],
+            "large_iso": mat['large_iso'],
+            "large_day": mat['large_day'],
+            "large_night": mat['large_night'],
+            "large_note": mat['large_note']
         }
         metadatas.append(meta)
         

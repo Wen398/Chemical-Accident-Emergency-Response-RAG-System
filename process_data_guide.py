@@ -91,6 +91,17 @@ def process_guide_section(input_path, output_path):
             continue
             
         # Normal content processing
+        # Filter Canada specific content
+        if "Emergency Response Assistance Plan (ERAP)" in line:
+            i += 1
+            continue
+        if "Please consult the shipping paper and/or the \"ERAP\"" in line:
+            i += 1
+            continue
+        if "If a Canadian flag appears in this section" in line:
+            i += 1
+            continue
+
         # Replace bullets
         clean_content = bullet_pattern.sub('- ', line)
         if clean_content:
@@ -103,7 +114,7 @@ def process_guide_section(input_path, output_path):
             f.write(line + '\n')
 
 if __name__ == "__main__":
-    input_file = "/home/khstudent3/chemical-accident-system/ERG_Guide_Section.txt"
-    output_file = "/home/khstudent3/chemical-accident-system/ERG_Guides_Cleaned.txt"
+    input_file = "ERG_Guide_Section.txt"
+    output_file = "Prepared Data/ERG_Guides_Cleaned.txt"
     process_guide_section(input_file, output_file)
     print(f"Processed {input_file} to {output_file}")

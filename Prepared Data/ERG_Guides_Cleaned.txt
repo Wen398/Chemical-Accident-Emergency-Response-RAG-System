@@ -1,3 +1,182 @@
+# SUGGESTED OPERATIONS SHOULD ONLY BE PERFORMED BY ADEQUATELY TRAINED AND EQUIPPED PERSONNEL
+
+## HOW TO USE THE ORANGE GUIDES
+
+### GUIDE NUMBER AND TITLE
+- The guide title identifies the general hazards associated with the materials in this Guide.
+
+### POTENTIAL HAZARDS
+- Emergency responders should consult this section first!
+- Describes the material hazard in terms of FIRE OR EXPLOSION and HEALTH effects upon exposure.
+- The primary potential hazard is listed first.
+- Allows the responders to make decisions to protect the emergency response team, and the surrounding population.
+
+
+GUIDE
+117
+POTENTIAL HAZARDS
+HEALTH
+- TOXIC; Extremely Hazardous.
+- May be fatal if inhaled or absorbed through skin.
+- Initial odor may be irritating or foul and may deaden your sense of smell.
+- Contact with gas or liquefied gas may cause burns, severe injury and/or frostbite.
+- Fire will produce irritating, corrosive and/or toxic gases.
+- Runoff from fire control or dilution water may cause environmental contamination.
+FIRE OR EXPLOSION
+- These materials are extremely flammable.
+- May form explosive mixtures with air.
+- May be ignited by heat, sparks or flames.
+- Vapors from liquefied gas are initially heavier than air and spread along ground.
+- Vapors may travel to source of ignition and flash back.
+- Those substances designated with a (P) may polymerize explosively when heated or involved in a fire.
+- Runoff may create fire or explosion hazard.
+- Cylinders exposed to fire may vent and release toxic and flammable gas through pressure relief devices.
+- Containers may explode when heated.
+- Ruptured cylinders may rocket.
+PUBLIC SAFETY
+- CALL 911. Then call emergency response telephone number on shipping paper. If shipping paper
+not available or no answer, refer to appropriate telephone number listed on the inside back cover.
+- Keep unauthorized personnel away.
+- Stay upwind, uphill and/or upstream.
+- Many gases are heavier than air and will spread along the ground and collect in low or confined areas
+(sewers, basements, tanks, etc.).
+- Ventilate closed spaces before entering, but only if properly trained and equipped.
+PROTECTIVE CLOTHING
+- Wear positive pressure self-contained breathing apparatus (SCBA).
+- Wear chemical protective clothing that is specifically recommended by the manufacturer when there is
+NO RISK OF FIRE.
+- Structural firefighters' protective clothing provides thermal protection but only limited chemical protection.
+EVACUATION
+Immediate precautionary measure
+- Isolate spill or leak area for at least 100 meters (330 feet) in all directions.
+Spill
+- See Table 1 - Initial Isolation and Protective Action Distances.
+Fire
+- If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
+directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
+Gases - Toxic - Flammable
+(Extreme Hazard)
+EMERGENCY RESPONSE
+FIRE
+- DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
+Small Fire
+- Dry chemical, CO2, water spray or regular foam.
+Large Fire
+- Water spray, fog or regular foam.
+- If it can be done safely, move undamaged containers away from the area around the fire.
+- Damaged cylinders should be handled only by specialists.
+Fire Involving Tanks
+- Fight fire from maximum distance or use unmanned master stream devices or monitor nozzles.
+- Cool containers with flooding quantities of water until well after fire is out.
+- Do not direct water at source of leak or safety devices; icing may occur.
+- Withdraw immediately in case of rising sound from venting safety devices or discoloration of tank.
+- ALWAYS stay away from tanks in direct contact with flames.
+SPILL OR LEAK
+- ELIMINATE all ignition sources (no smoking, flares, sparks or flames) from immediate area.
+- All equipment used when handling the product must be grounded.
+- Do not touch or walk through spilled material.
+- Stop leak if you can do it without risk.
+- Use water spray to reduce vapors or divert vapor cloud drift. Avoid allowing water runoff to contact spilled
+material.
+- Do not direct water at spill or source of leak.
+- If possible, turn leaking containers so that gas escapes rather than liquid.
+- Prevent entry into waterways, sewers, basements or confined areas.
+- Isolate area until gas has dispersed.
+- Consider igniting spill or leak to eliminate toxic gas concerns.
+FIRST AID
+Refer to the “General First Aid” section.
+Specific First Aid:
+- In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
+- In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
+clothing if adhering to skin.
+Gases - Toxic - Flammable
+(Extreme Hazard)
+SUGGESTED OPERATIONS SHOULD ONLY BE PERFORMED BY
+ADEQUATELY TRAINED AND EQUIPPED PERSONNEL
+PUBLIC SAFETY
+- This section is divided into three subsections:
+››
+General Information: describes initial precautionary measures to be taken
+by those first on the scene.
+››
+PROTECTIVE CLOTHING: provides general guidance on personal
+protective equipment requirements including respiratory protection. The
+protective clothing information is general and correct selection is situation
+dependent, after considering the physical and chemical properties of the
+material, weather conditions, spill versus fire, topography, etc.
+››
+EVACUATION: suggests protective distances for immediate precautionary
+measures defined for small and large spills, including suggested guidance
+for conditions where fire is present or likely (potential fragmentation
+hazard).
+−−The term “isolate” indicates a zone of no entry that applies to the public
+and first responders who are not equipped, trained, and prepared to
+mitigate the incident.
+−−The term “evacuate” aims to protect as many people as possible by
+removing persons from inside a zone safely. If removal is too risky,
+sheltering-in-place can also be considered in this zone.
+- Materials highlighted in green in the yellow and blue sections direct the reader
+to consult Table 1, detailing specific response distances for toxic inhalation
+hazard materials and water-reactive materials (green section).
+EMERGENCY RESPONSE
+- This section is divided into three subsections:
+››
+FIRE: provides extinguishing procedures for Small Fire, Large Fire, and/
+or Fire Involving Tanks or Car/Trailer Loads
+››
+SPILL OR LEAK: includes general recommendations, and may describe
+the response procedure for Small Spill and Large Spill
+››
+FIRST AID: provides specific first aid guidance to use for a product or a
+guide in addition to the general first aid guidance for hazardous materials/
+dangerous goods incidents. General first aid guidance is found in the
+“General First Aid” section situated immediately after the “How to use the
+Orange Guides” section.
+•
+Call 911 or emergency medical service.
+•
+Ensure that medical personnel are aware of the material(s) involved, take precautions
+to protect themselves and avoid contamination.
+•
+Move victim to fresh air if it can be done safely.
+•
+Administer oxygen if breathing is difficult.
+•
+If victim is not breathing:
+––
+DO NOT perform mouth-to-mouth resuscitation; the victim may have ingested
+or inhaled the substance.
+––
+If equipped and pulse detected, wash face and mouth, then give artificial
+respiration using a proper respiratory medical device (bag-valve mask, pocket
+mask equipped with a one-way valve or other device).
+––
+If no pulse detected or no respiratory medical device available, provide continuous
+compressions. Conduct a pulse check every two minutes or monitor for any signs
+of spontaneous respirations.
+•
+Remove and isolate contaminated clothing and shoes.
+•
+For minor skin contact, avoid spreading material on unaffected skin.
+•
+In case of contact with substance, remove immediately by flushing skin or eyes with
+running water for at least 20 minutes.
+•
+For severe burns, immediate medical attention is required.
+•
+Effects of exposure (inhalation, ingestion, or skin contact) to substance may be delayed.
+•
+Keep victim calm and warm.
+•
+Keep victim under observation.
+•
+For further assistance, contact your local Poison Control Center.
+•
+Note: Basic Life Support (BLS) and Advanced Life Support (ALS) should be done
+by trained professionals.
+GENERAL FIRST AID
+NOTES
+
 GUIDE
 111
 Guides (orange section)
@@ -30,7 +209,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Mixed Load/Unidentified Cargo
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: Material may react with extinguishing agent.
@@ -90,7 +268,6 @@ evacuation including emergency responders for 1600 meters (1 mile) in all direct
 Explosives* - Division 1.1, 1.2, 1.3 or 1.5
 *	For information on "Compatibility Group" letters,
 refer to the Glossary section.
-
 EMERGENCY RESPONSE
 FIRE
 CARGO Fire
@@ -113,8 +290,6 @@ DETONATORS.
 FIRST AID
 Refer to the “General First Aid” section.
 Explosives* - Division 1.1, 1.2, 1.3 or 1.5
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 113
@@ -152,7 +327,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Materials
 (Wet/Desensitized Explosive)
-
 EMERGENCY RESPONSE
 FIRE
 CARGO Fire
@@ -178,8 +352,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Flammable Materials
 (Wet/Desensitized Explosive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 114
@@ -212,7 +384,6 @@ classified as 1.4S, consider isolating at least 15 meters (50 feet) in all direc
 Explosives* - Division 1.4 or 1.6
 *	For information on "Compatibility Group" letters,
 refer to the Glossary section.
-
 EMERGENCY RESPONSE
 FIRE
 CARGO Fire
@@ -241,8 +412,6 @@ DETONATORS.
 FIRST AID
 Refer to the “General First Aid” section.
 Explosives* - Division 1.4 or 1.6
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 115
@@ -291,7 +460,6 @@ Isobutylene (UN1055), Propylene (UN1077), Isobutane (UN1969), and Propane (UN197
 the "BLEVE – Safety Precautions" section.
 Gases - Flammable
 (Including Refrigerated Liquids)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -337,8 +505,6 @@ Specific First Aid:
 clothing if adhering to skin.
 Gases - Flammable
 (Including Refrigerated Liquids)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 116
@@ -379,7 +545,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
 Gases - Flammable (Unstable)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -414,8 +579,6 @@ Specific First Aid:
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
 Gases - Flammable (Unstable)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 117
@@ -461,7 +624,6 @@ Fire
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
 Gases - Toxic - Flammable
 (Extreme Hazard)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -497,8 +659,6 @@ Specific First Aid:
 clothing if adhering to skin.
 Gases - Toxic - Flammable
 (Extreme Hazard)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 118
@@ -543,7 +703,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
 Gases - Flammable - Corrosive
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -576,8 +735,6 @@ Specific First Aid:
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
 Gases - Flammable - Corrosive
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 119
@@ -624,7 +781,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
 Gases - Toxic - Flammable
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -660,8 +816,6 @@ Specific First Aid:
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
 Gases - Toxic - Flammable
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 120
@@ -696,7 +850,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Gases - Inert
 (Including Refrigerated Liquids)
-
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -730,6 +883,8 @@ Gases - Inert
 
 GUIDE
 121
+Intentionally left blank
+There are no materials that refer to this guide.
 Intentionally left blank
 There are no materials that refer to this guide.
 
@@ -772,7 +927,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Gases - Oxidizing
 (Including Refrigerated Liquids)
-
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -810,8 +964,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 Gases - Oxidizing
 (Including Refrigerated Liquids)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 123
@@ -853,7 +1005,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Gases - Toxic
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -883,8 +1034,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 Gases - Toxic
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 124
@@ -927,7 +1076,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Gases - Toxic and/or Corrosive -
 Oxidizing
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: These materials do not burn but will support combustion. Some will react violently with water.
@@ -962,8 +1110,6 @@ Specific First Aid:
 - Clothing frozen to the skin should be thawed before being removed.
 Gases - Toxic and/or Corrosive -
 Oxidizing
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 125
@@ -1008,7 +1154,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
 Gases - Toxic and/or Corrosive
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1040,8 +1185,6 @@ Specific First Aid:
 - In case of skin contact with hydrogen fluoride, anhydrous (UN1052), if calcium gluconate gel is
 available, rinse 5 minutes, then apply gel. Otherwise, continue rinsing until medical treatment is available.
 Gases - Toxic and/or Corrosive
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 126
@@ -1079,7 +1222,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Gases - Compressed or Liquefied
 (Including Refrigerant Gases)
-
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -1153,7 +1295,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Liquids
 (Water-Miscible)
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1194,8 +1335,6 @@ Specific First Aid:
 clothing if adhering to skin.
 Flammable Liquids
 (Water-Miscible)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 128
@@ -1240,7 +1379,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Liquids
 (Water-Immiscible)
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1283,8 +1421,6 @@ Specific First Aid:
 clothing if adhering to skin.
 Flammable Liquids
 (Water-Immiscible)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 129
@@ -1325,7 +1461,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Liquids
 (Water-Miscible/Noxious)
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1365,8 +1500,6 @@ Specific First Aid:
 clothing if adhering to skin.
 Flammable Liquids
 (Water-Miscible/Noxious)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 130
@@ -1407,7 +1540,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Liquids
 (Water-Immiscible/Noxious)
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1492,7 +1624,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Liquids - Toxic
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1538,8 +1669,6 @@ Specific First Aid:
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
 Flammable Liquids - Toxic
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 132
@@ -1584,7 +1713,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Liquids - Corrosive
-
 EMERGENCY RESPONSE
 FIRE
 - Some of these materials may react violently with water.
@@ -1623,8 +1751,6 @@ minutes. Additional flushing may be required.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
 Flammable Liquids - Corrosive
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 133
@@ -1658,7 +1784,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Solids
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1689,8 +1814,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Removal of solidified molten material from skin requires medical assistance.
 Flammable Solids
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 134
@@ -1729,7 +1852,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Flammable Solids - Toxic and/or
 Corrosive
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1759,8 +1881,6 @@ Specific First Aid:
 minutes. Additional flushing may be required.
 Flammable Solids - Toxic and/or
 Corrosive
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 135
@@ -1803,7 +1923,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Spontaneously Combustible
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER, CO2 OR FOAM ON MATERIAL ITSELF.
@@ -1842,8 +1961,6 @@ later disposal.
 FIRST AID
 Refer to the “General First Aid” section.
 Substances - Spontaneously Combustible
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 136
@@ -1888,7 +2005,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Spontaneously Combustible -
 Toxic and/or Corrosive (Air-Reactive)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1922,8 +2038,6 @@ bandages until medical attention is received.
 water. Fire hazard if allowed to dry.
 Substances - Spontaneously Combustible -
 Toxic and/or Corrosive (Air-Reactive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 137
@@ -1967,7 +2081,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Water-Reactive - Corrosive
-
 EMERGENCY RESPONSE
 FIRE
 - When material is not involved in fire, do not use water on material itself.
@@ -2000,8 +2113,6 @@ Specific First Aid:
 minutes. Additional flushing may be required.
 - Removal of solidified molten material from skin requires medical assistance.
 Substances - Water-Reactive - Corrosive
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 138
@@ -2042,7 +2153,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Water-Reactive
 (Emitting Flammable Gases)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER OR FOAM.
@@ -2081,8 +2191,6 @@ Specific First Aid:
 at least 20 minutes.
 Substances - Water-Reactive
 (Emitting Flammable Gases)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 139
@@ -2127,7 +2235,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Water-Reactive
 (Emitting Flammable And Toxic Gases)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER OR FOAM. (FOAM MAY BE USED FOR CHLOROSILANES, SEE BELOW)
@@ -2167,8 +2274,6 @@ Specific First Aid:
 at least 20 minutes.
 Substances - Water-Reactive
 (Emitting Flammable And Toxic Gases)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 140
@@ -2213,7 +2318,6 @@ directions; also, consider initial evacuation for 800 meters (1/2 mile) in all d
 meters (1 mile) in all directions; also, initiate evacuation including emergency responders for 1600
 meters (1 mile) in all directions.
 Oxidizers
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2249,8 +2353,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Oxidizers
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 141
@@ -2290,7 +2392,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Oxidizers - Toxic
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2319,8 +2420,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Oxidizers - Toxic
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 142
@@ -2360,7 +2459,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Oxidizers - Toxic (Liquid)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2391,8 +2489,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Oxidizers - Toxic (Liquid)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 143
@@ -2433,7 +2529,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Oxidizers (Unstable)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2463,8 +2558,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Oxidizers (Unstable)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 144
@@ -2505,7 +2598,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Oxidizers (Water-Reactive)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER OR FOAM.
@@ -2537,8 +2629,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Oxidizers (Water-Reactive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 145
@@ -2575,7 +2665,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Organic Peroxides
 (Heat and Contamination Sensitive)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2646,7 +2735,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Organic Peroxides
 (Heat, Contamination and Friction Sensitive)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2681,8 +2769,6 @@ Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Organic Peroxides
 (Heat, Contamination and Friction Sensitive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 147
@@ -2716,7 +2802,6 @@ Fire
 - If rail car or trailer is involved in a fire, ISOLATE for 500 meters (1/3 mile) in all directions; also initiate
 evacuation including emergency responders for 500 meters (1/3 mile) in all directions.
 Lithium Ion and Sodium Ion Batteries
-
 EMERGENCY RESPONSE
 FIRE
 - A lithium ion or sodium ion battery fire may reignite at any point after the initial fire is extinguished, up to
@@ -2790,7 +2875,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Organic Peroxides (Heat and Contamination
 Sensitive/Temperature Controlled)
-
 EMERGENCY RESPONSE
 FIRE
 - The temperature of the substance must be maintained at or below the “Control Temperature” at
@@ -2829,8 +2913,6 @@ Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
 Organic Peroxides (Heat and Contamination
 Sensitive/Temperature Controlled)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 149
@@ -2869,7 +2951,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances (Self-Reactive)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2894,8 +2975,6 @@ covered plastic containers for later disposal.
 FIRST AID
 Refer to the “General First Aid” section.
 Substances (Self-Reactive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 150
@@ -2938,7 +3017,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances (Self-Reactive/
 Temperature Controlled)
-
 EMERGENCY RESPONSE
 FIRE
 - The temperature of the substance must be maintained at or below the “Control Temperature” at
@@ -2969,8 +3047,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Substances (Self-Reactive/
 Temperature Controlled)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 151
@@ -3008,7 +3084,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic (Non-Combustible)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3037,8 +3112,6 @@ SPILL OR LEAK
 FIRST AID
 Refer to the “General First Aid” section.
 Substances - Toxic (Non-Combustible)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 152
@@ -3078,7 +3151,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic (Combustible)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3109,8 +3181,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Removal of solidified molten material from skin requires medical assistance.
 Substances - Toxic (Combustible)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 153
@@ -3157,7 +3227,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic and/or Corrosive
 (Combustible)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3187,8 +3256,6 @@ minutes. Additional flushing may be required.
 - Removal of solidified molten material from skin requires medical assistance.
 Substances - Toxic and/or Corrosive
 (Combustible)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 154
@@ -3233,7 +3300,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic and/or Corrosive
 (Non-Combustible)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3262,8 +3328,6 @@ Specific First Aid:
 minutes. Additional flushing may be required.
 Substances - Toxic and/or Corrosive
 (Non-Combustible)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 155
@@ -3312,7 +3376,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic and/or Corrosive
 (Flammable/Water-Sensitive)
-
 EMERGENCY RESPONSE
 FIRE
 - Note: Most foams will react with the material and release corrosive/toxic gases.
@@ -3353,8 +3416,6 @@ Specific First Aid:
 minutes. Additional flushing may be required.
 Substances - Toxic and/or Corrosive
 (Flammable/Water-Sensitive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 156
@@ -3402,7 +3463,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic and/or Corrosive
 (Combustible/Water-Sensitive)
-
 EMERGENCY RESPONSE
 FIRE
 - Note: Most foams will react with the material and release corrosive/toxic gases.
@@ -3444,8 +3504,6 @@ minutes. Additional flushing may be required.
 - Removal of solidified molten material from skin requires medical assistance.
 Substances - Toxic and/or Corrosive
 (Combustible/Water-Sensitive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 157
@@ -3491,7 +3549,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances - Toxic and/or Corrosive
 (Non-Combustible/Water-Sensitive)
-
 EMERGENCY RESPONSE
 FIRE
 - Note: Some foams will react with the material and release corrosive/toxic gases.
@@ -3532,8 +3589,6 @@ minutes. Additional flushing may be required.
 minutes, then apply gel. Otherwise, continue rinsing until medical treatment is available.
 Substances - Toxic and/or Corrosive
 (Non-Combustible/Water-Sensitive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 158
@@ -3575,7 +3630,6 @@ EVACUATION
 Immediate precautionary measure
 - Isolate spill or leak area for at least 25 meters (75 feet) in all directions.
 Infectious Substances
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3603,8 +3657,6 @@ with soap and water. Take caution not to break the skin.
 - Effects of exposure (inhalation, ingestion, injection/inoculation or skin contact) to substance may be
 delayed. Victim should consult medical professional for information regarding symptoms and treatment.
 Infectious Substances
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 159
@@ -3641,7 +3693,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances (Irritating)
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3670,8 +3721,6 @@ Large Spill
 FIRST AID
 Refer to the “General First Aid” section.
 Substances (Irritating)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 160
@@ -3710,7 +3759,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Halogenated Solvents
-
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3780,7 +3828,6 @@ Fire
 300 meters (1000 feet) in all directions.
 Radioactive Materials
 (Low Level Radiation)
-
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -3856,7 +3903,6 @@ Fire
 300 meters (1000 feet) in all directions.
 Radioactive Materials
 (Low to Moderate Level Radiation)
-
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -3885,8 +3931,6 @@ at least 20 minutes.
 personnel, equipment or facilities.
 Radioactive Materials
 (Low to Moderate Level Radiation)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 163
@@ -3942,7 +3986,6 @@ Fire
 300 meters (1000 feet) in all directions.
 Radioactive Materials
 (Low to High Level Radiation)
-
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -4023,7 +4066,6 @@ Fire
 300 meters (1000 feet) in all directions.
 Radioactive Materials (Special Form/
 Low to High Level External Radiation)
-
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -4104,7 +4146,6 @@ Fire
 300 meters (1000 feet) in all directions.
 Radioactive Materials
 (Fissile/Low to High Level Radiation)
-
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -4132,8 +4173,6 @@ Specific First Aid:
 personnel, equipment or facilities.
 Radioactive Materials
 (Fissile/Low to High Level Radiation)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 166
@@ -4185,7 +4224,6 @@ Fire
 300 meters (1000 feet) in all directions.
 Radioactive Materials - Corrosive
 (Uranium Hexafluoride/Water-Reactive)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER OR FOAM ON MATERIAL ITSELF.
@@ -4218,11 +4256,11 @@ available.
 - Do not delay care and transport of a seriously injured person.
 Radioactive Materials - Corrosive
 (Uranium Hexafluoride/Water-Reactive)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 167
+Intentionally left blank
+There are no materials that refer to this guide.
 Intentionally left blank
 There are no materials that refer to this guide.
 
@@ -4267,7 +4305,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Carbon Monoxide (Refrigerated Liquid)
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: Flame can be invisible. Use an alternate method of detection (thermal camera, broom
@@ -4328,7 +4365,6 @@ EVACUATION
 Immediate precautionary measure
 - Isolate spill or leak area for at least 50 meters (150 feet) in all directions.
 Aluminum (Molten)
-
 EMERGENCY RESPONSE
 FIRE
 - Do not use water, except in life-threatening situations and then only in a fine spray.
@@ -4388,7 +4424,6 @@ Fire
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Metals (Powders, Dusts, Shavings, Borings,
 Turnings, or Cuttings, etc.)
-
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER, FOAM OR CO2.
@@ -4408,8 +4443,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Metals (Powders, Dusts, Shavings, Borings,
 Turnings, or Cuttings, etc.)
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 171
@@ -4448,7 +4481,6 @@ Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
 Substances (Low to Moderate Hazard)
-
 EMERGENCY RESPONSE
 FIRE
 CAUTION: Fire involving Safety devices (UN3268) and Fire suppressant dispersing devices (UN3559) may
@@ -4510,7 +4542,7 @@ Large Spill
 Fire
 - When any large container is involved in a fire, consider initial evacuation for 500 meters (1/3 mile) in all
 directions.
-
+Gallium and Mercury
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -4528,9 +4560,7 @@ spreading or contact with rain.
 thiosulphate/sodium thiosulfate wash to neutralize any residual mercury.
 FIRST AID
 Refer to the “General First Aid” section.
-
-GUIDE
-173
+Gallium and Mercury
 POTENTIAL HAZARDS
 HEALTH
 - TOXIC; may be fatal if inhaled or absorbed through skin.
@@ -4568,7 +4598,12 @@ Spill
 Fire
 - If several small packages (inside a railcar or trailer) are involved in a fire, ISOLATE for 1600 meters
 (1 mile) in all directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
+Adsorbed Gases - Toxic*
+* Some substances may also be flammable, corrosive
+and/or oxidizing
 
+GUIDE
+173
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -4604,8 +4639,6 @@ Specific First Aid:
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
 Adsorbed Gases - Toxic*
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 
 GUIDE
 174
@@ -4641,10 +4674,7 @@ Large Spill
 Fire
 - If several small packages (inside a railcar or trailer) are involved in a fire, ISOLATE for 1600 meters
 (1 mile) in all directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-
 Adsorbed Gases - Flammable or Oxidizing
-In Canada, an Emergency Response Assistance Plan (ERAP) may be required for this product.
-Please consult the shipping paper and/or the "ERAP" section.
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
