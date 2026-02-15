@@ -54,8 +54,6 @@ Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-Gases - Toxic - Flammable
-(Extreme Hazard)
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -89,8 +87,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Gases - Toxic - Flammable
-(Extreme Hazard)
 SUGGESTED OPERATIONS SHOULD ONLY BE PERFORMED BY
 ADEQUATELY TRAINED AND EQUIPPED PERSONNEL
 PUBLIC SAFETY
@@ -208,7 +204,6 @@ Immediate precautionary measure
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Mixed Load/Unidentified Cargo
 EMERGENCY RESPONSE
 FIRE
 CAUTION: Material may react with extinguishing agent.
@@ -237,7 +232,6 @@ Large Spill
 - Dike far ahead of liquid spill for later disposal.
 FIRST AID
 Refer to the “General First Aid” section.
-Mixed Load/Unidentified Cargo
 
 GUIDE
 112
@@ -265,7 +259,6 @@ Large Spill
 Fire
 - If rail car or trailer is involved in a fire, ISOLATE for 1600 meters (1 mile) in all directions; also, initiate
 evacuation including emergency responders for 1600 meters (1 mile) in all directions.
-Explosives* - Division 1.1, 1.2, 1.3 or 1.5
 *	For information on "Compatibility Group" letters,
 refer to the Glossary section.
 EMERGENCY RESPONSE
@@ -289,7 +282,6 @@ DETONATORS.
 - DO NOT CLEAN-UP OR DISPOSE OF, EXCEPT UNDER SUPERVISION OF A SPECIALIST.
 FIRST AID
 Refer to the “General First Aid” section.
-Explosives* - Division 1.1, 1.2, 1.3 or 1.5
 
 GUIDE
 113
@@ -325,8 +317,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Materials
-(Wet/Desensitized Explosive)
 EMERGENCY RESPONSE
 FIRE
 CARGO Fire
@@ -350,8 +340,6 @@ Large Spill
 - KEEP “WETTED” PRODUCT WET BY SLOWLY ADDING FLOODING QUANTITIES OF WATER.
 FIRST AID
 Refer to the “General First Aid” section.
-Flammable Materials
-(Wet/Desensitized Explosive)
 
 GUIDE
 114
@@ -381,7 +369,6 @@ Fire
 evacuation including emergency responders for 800 meters (1/2 mile) in all directions.
 - If fire threatens cargo area containing packages bearing the 1.4S label or packages containing material
 classified as 1.4S, consider isolating at least 15 meters (50 feet) in all directions.
-Explosives* - Division 1.4 or 1.6
 *	For information on "Compatibility Group" letters,
 refer to the Glossary section.
 EMERGENCY RESPONSE
@@ -411,7 +398,6 @@ DETONATORS.
 - DO NOT CLEAN-UP OR DISPOSE OF, EXCEPT UNDER SUPERVISION OF A SPECIALIST.
 FIRST AID
 Refer to the “General First Aid” section.
-Explosives* - Division 1.4 or 1.6
 
 GUIDE
 115
@@ -458,8 +444,6 @@ directions; also, consider initial evacuation for 1600 meters (1 mile) in all di
 - In fires involving Liquefied Petroleum Gases (LPG) (UN1075), Butane (UN1011), Butylene (UN1012),
 Isobutylene (UN1055), Propylene (UN1077), Isobutane (UN1969), and Propane (UN1978), also refer to
 the "BLEVE – Safety Precautions" section.
-Gases - Flammable
-(Including Refrigerated Liquids)
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -503,8 +487,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Gases - Flammable
-(Including Refrigerated Liquids)
 
 GUIDE
 116
@@ -544,7 +526,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-Gases - Flammable (Unstable)
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -578,7 +559,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Gases - Flammable (Unstable)
 
 GUIDE
 117
@@ -622,8 +602,6 @@ Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-Gases - Toxic - Flammable
-(Extreme Hazard)
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -657,8 +635,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Gases - Toxic - Flammable
-(Extreme Hazard)
 
 GUIDE
 118
@@ -702,7 +678,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-Gases - Flammable - Corrosive
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -734,7 +709,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Gases - Flammable - Corrosive
 
 GUIDE
 119
@@ -780,7 +754,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-Gases - Toxic - Flammable
 EMERGENCY RESPONSE
 FIRE
 - DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
@@ -815,7 +788,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Gases - Toxic - Flammable
 
 GUIDE
 120
@@ -848,8 +820,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Gases - Inert
-(Including Refrigerated Liquids)
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -878,8 +848,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Clothing frozen to the skin should be thawed before being removed.
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
-Gases - Inert
-(Including Refrigerated Liquids)
 
 GUIDE
 121
@@ -925,8 +893,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Gases - Oxidizing
-(Including Refrigerated Liquids)
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -962,8 +928,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - Clothing frozen to the skin should be thawed before being removed.
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
-Gases - Oxidizing
-(Including Refrigerated Liquids)
 
 GUIDE
 123
@@ -1004,7 +968,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Gases - Toxic
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1033,7 +996,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
-Gases - Toxic
 
 GUIDE
 124
@@ -1074,7 +1036,6 @@ Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Gases - Toxic and/or Corrosive -
 Oxidizing
 EMERGENCY RESPONSE
 FIRE
@@ -1108,7 +1069,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - Clothing frozen to the skin should be thawed before being removed.
-Gases - Toxic and/or Corrosive -
 Oxidizing
 
 GUIDE
@@ -1153,7 +1113,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
 directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-Gases - Toxic and/or Corrosive
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1184,7 +1143,6 @@ Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
 - In case of skin contact with hydrogen fluoride, anhydrous (UN1052), if calcium gluconate gel is
 available, rinse 5 minutes, then apply gel. Otherwise, continue rinsing until medical treatment is available.
-Gases - Toxic and/or Corrosive
 
 GUIDE
 126
@@ -1220,8 +1178,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Gases - Compressed or Liquefied
-(Including Refrigerant Gases)
 EMERGENCY RESPONSE
 FIRE
 - Use extinguishing agent suitable for type of surrounding fire.
@@ -1252,8 +1208,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
-Gases - Compressed or Liquefied
-(Including Refrigerant Gases)
 
 GUIDE
 127
@@ -1293,8 +1247,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Liquids
-(Water-Miscible)
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1333,8 +1285,6 @@ Specific First Aid:
 - Wash skin with soap and water.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Flammable Liquids
-(Water-Miscible)
 
 GUIDE
 128
@@ -1377,8 +1327,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Liquids
-(Water-Immiscible)
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1419,8 +1367,6 @@ Specific First Aid:
 - Wash skin with soap and water.
 - In case of burns, immediately cool affected skin for as long as possible with cold water.Do not remove
 clothing if adhering to skin.
-Flammable Liquids
-(Water-Immiscible)
 
 GUIDE
 129
@@ -1459,8 +1405,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Liquids
-(Water-Miscible/Noxious)
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1498,8 +1442,6 @@ Specific First Aid:
 - Wash skin with soap and water.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Flammable Liquids
-(Water-Miscible/Noxious)
 
 GUIDE
 130
@@ -1538,8 +1480,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Liquids
-(Water-Immiscible/Noxious)
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1576,8 +1516,6 @@ Specific First Aid:
 - Wash skin with soap and water.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Flammable Liquids
-(Water-Immiscible/Noxious)
 
 GUIDE
 131
@@ -1623,7 +1561,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Liquids - Toxic
 EMERGENCY RESPONSE
 FIRE
 CAUTION: The majority of these products have a very low flash point. Use of water spray when
@@ -1668,7 +1605,6 @@ Specific First Aid:
 - Wash skin with soap and water.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Flammable Liquids - Toxic
 
 GUIDE
 132
@@ -1712,7 +1648,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Liquids - Corrosive
 EMERGENCY RESPONSE
 FIRE
 - Some of these materials may react violently with water.
@@ -1750,7 +1685,6 @@ Specific First Aid:
 minutes. Additional flushing may be required.
 - In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
 clothing if adhering to skin.
-Flammable Liquids - Corrosive
 
 GUIDE
 133
@@ -1783,7 +1717,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Solids
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -1813,7 +1746,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - Removal of solidified molten material from skin requires medical assistance.
-Flammable Solids
 
 GUIDE
 134
@@ -1850,7 +1782,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Flammable Solids - Toxic and/or
 Corrosive
 EMERGENCY RESPONSE
 FIRE
@@ -1879,7 +1810,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - For corrosives, in case of contact, immediately flush skin or eyes with running water for at least 30
 minutes. Additional flushing may be required.
-Flammable Solids - Toxic and/or
 Corrosive
 
 GUIDE
@@ -1922,7 +1852,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Spontaneously Combustible
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER, CO2 OR FOAM ON MATERIAL ITSELF.
@@ -1960,7 +1889,6 @@ later disposal.
 - Prevent entry into waterways, sewers, basements or confined areas.
 FIRST AID
 Refer to the “General First Aid” section.
-Substances - Spontaneously Combustible
 
 GUIDE
 136
@@ -2003,7 +1931,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Spontaneously Combustible -
 Toxic and/or Corrosive (Air-Reactive)
 EMERGENCY RESPONSE
 FIRE
@@ -2036,7 +1963,6 @@ bandages until medical attention is received.
 - Removal of solidified molten material from skin requires medical assistance.
 - Remove and isolate contaminated clothing and shoes at the site and place in metal container filled with
 water. Fire hazard if allowed to dry.
-Substances - Spontaneously Combustible -
 Toxic and/or Corrosive (Air-Reactive)
 
 GUIDE
@@ -2080,7 +2006,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Water-Reactive - Corrosive
 EMERGENCY RESPONSE
 FIRE
 - When material is not involved in fire, do not use water on material itself.
@@ -2112,7 +2037,6 @@ Specific First Aid:
 - For corrosives, in case of contact, immediately flush skin or eyes with running water for at least 30
 minutes. Additional flushing may be required.
 - Removal of solidified molten material from skin requires medical assistance.
-Substances - Water-Reactive - Corrosive
 
 GUIDE
 138
@@ -2151,8 +2075,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Water-Reactive
-(Emitting Flammable Gases)
 EMERGENCY RESPONSE
 FIRE
 - DO NOT USE WATER OR FOAM.
@@ -2189,8 +2111,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - In case of contact with substance, wipe from skin immediately; flush skin or eyes with running water for
 at least 20 minutes.
-Substances - Water-Reactive
-(Emitting Flammable Gases)
 
 GUIDE
 139
@@ -2233,7 +2153,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Water-Reactive
 (Emitting Flammable And Toxic Gases)
 EMERGENCY RESPONSE
 FIRE
@@ -2272,7 +2191,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - In case of contact with substance, wipe from skin immediately; flush skin or eyes with running water for
 at least 20 minutes.
-Substances - Water-Reactive
 (Emitting Flammable And Toxic Gases)
 
 GUIDE
@@ -2663,8 +2581,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Organic Peroxides
-(Heat and Contamination Sensitive)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2697,8 +2613,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
-Organic Peroxides
-(Heat and Contamination Sensitive)
 
 GUIDE
 146
@@ -2733,8 +2647,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Organic Peroxides
-(Heat, Contamination and Friction Sensitive)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2767,8 +2679,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
-Organic Peroxides
-(Heat, Contamination and Friction Sensitive)
 
 GUIDE
 147
@@ -2873,7 +2783,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Organic Peroxides (Heat and Contamination
 Sensitive/Temperature Controlled)
 EMERGENCY RESPONSE
 FIRE
@@ -2911,7 +2820,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - Contaminated clothing may be a fire risk when dry.
-Organic Peroxides (Heat and Contamination
 Sensitive/Temperature Controlled)
 
 GUIDE
@@ -2950,7 +2858,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances (Self-Reactive)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -2974,7 +2881,6 @@ covered plastic containers for later disposal.
 - Prevent entry into waterways, sewers, basements or confined areas.
 FIRST AID
 Refer to the “General First Aid” section.
-Substances (Self-Reactive)
 
 GUIDE
 150
@@ -3015,7 +2921,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances (Self-Reactive/
 Temperature Controlled)
 EMERGENCY RESPONSE
 FIRE
@@ -3045,7 +2950,6 @@ covered plastic containers for later disposal.
 - DO NOT CLEAN-UP OR DISPOSE OF, EXCEPT UNDER SUPERVISION OF A SPECIALIST.
 FIRST AID
 Refer to the “General First Aid” section.
-Substances (Self-Reactive/
 Temperature Controlled)
 
 GUIDE
@@ -3083,7 +2987,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic (Non-Combustible)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3111,7 +3014,6 @@ SPILL OR LEAK
 - For solids, prevent dust cloud and avoid inhalation of dust.
 FIRST AID
 Refer to the “General First Aid” section.
-Substances - Toxic (Non-Combustible)
 
 GUIDE
 152
@@ -3150,7 +3052,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic (Combustible)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3180,7 +3081,6 @@ FIRST AID
 Refer to the “General First Aid” section.
 Specific First Aid:
 - Removal of solidified molten material from skin requires medical assistance.
-Substances - Toxic (Combustible)
 
 GUIDE
 153
@@ -3225,8 +3125,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic and/or Corrosive
-(Combustible)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3254,8 +3152,6 @@ Specific First Aid:
 - For corrosives, in case of contact, immediately flush skin or eyes with running water for at least 30
 minutes. Additional flushing may be required.
 - Removal of solidified molten material from skin requires medical assistance.
-Substances - Toxic and/or Corrosive
-(Combustible)
 
 GUIDE
 154
@@ -3298,8 +3194,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic and/or Corrosive
-(Non-Combustible)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3326,8 +3220,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - For corrosives, in case of contact, immediately flush skin or eyes with running water for at least 30
 minutes. Additional flushing may be required.
-Substances - Toxic and/or Corrosive
-(Non-Combustible)
 
 GUIDE
 155
@@ -3374,8 +3266,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic and/or Corrosive
-(Flammable/Water-Sensitive)
 EMERGENCY RESPONSE
 FIRE
 - Note: Most foams will react with the material and release corrosive/toxic gases.
@@ -3414,8 +3304,6 @@ Refer to the “General First Aid” section.
 Specific First Aid:
 - For corrosives, in case of contact, immediately flush skin or eyes with running water for at least 30
 minutes. Additional flushing may be required.
-Substances - Toxic and/or Corrosive
-(Flammable/Water-Sensitive)
 
 GUIDE
 156
@@ -3461,7 +3349,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic and/or Corrosive
 (Combustible/Water-Sensitive)
 EMERGENCY RESPONSE
 FIRE
@@ -3502,7 +3389,6 @@ Specific First Aid:
 - For corrosives, in case of contact, immediately flush skin or eyes with running water for at least 30
 minutes. Additional flushing may be required.
 - Removal of solidified molten material from skin requires medical assistance.
-Substances - Toxic and/or Corrosive
 (Combustible/Water-Sensitive)
 
 GUIDE
@@ -3547,7 +3433,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances - Toxic and/or Corrosive
 (Non-Combustible/Water-Sensitive)
 EMERGENCY RESPONSE
 FIRE
@@ -3587,7 +3472,6 @@ Specific First Aid:
 minutes. Additional flushing may be required.
 - In case of skin contact with Hydrofluoric acid (UN1790), if calcium gluconate gel is available, rinse 5
 minutes, then apply gel. Otherwise, continue rinsing until medical treatment is available.
-Substances - Toxic and/or Corrosive
 (Non-Combustible/Water-Sensitive)
 
 GUIDE
@@ -3629,7 +3513,6 @@ hypochlorite) or through a validated decontamination technology (e.g., autoclave
 EVACUATION
 Immediate precautionary measure
 - Isolate spill or leak area for at least 25 meters (75 feet) in all directions.
-Infectious Substances
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3656,7 +3539,6 @@ with soap and water. Take caution not to break the skin.
 - Additional decontamination may also be necessary.
 - Effects of exposure (inhalation, ingestion, injection/inoculation or skin contact) to substance may be
 delayed. Victim should consult medical professional for information regarding symptoms and treatment.
-Infectious Substances
 
 GUIDE
 159
@@ -3692,7 +3574,6 @@ Large Spill
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances (Irritating)
 EMERGENCY RESPONSE
 FIRE
 Small Fire
@@ -3720,7 +3601,6 @@ Large Spill
 - Prevent entry into waterways, sewers, basements or confined areas.
 FIRST AID
 Refer to the “General First Aid” section.
-Substances (Irritating)
 
 GUIDE
 160
@@ -3826,8 +3706,6 @@ Large Spill
 Fire
 - When a large quantity of this material is involved in a major fire, consider an initial evacuation distance of
 300 meters (1000 feet) in all directions.
-Radioactive Materials
-(Low Level Radiation)
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -3850,8 +3728,6 @@ Specific First Aid:
 - Do not delay care and transport of a seriously injured person.
 - Injured persons contaminated by contact with released material are not a serious hazard to health care
 personnel, equipment or facilities.
-Radioactive Materials
-(Low Level Radiation)
 
 GUIDE
 162
@@ -3901,8 +3777,6 @@ Large Spill
 Fire
 - When a large quantity of this material is involved in a major fire, consider an initial evacuation distance of
 300 meters (1000 feet) in all directions.
-Radioactive Materials
-(Low to Moderate Level Radiation)
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -3929,8 +3803,6 @@ Specific First Aid:
 at least 20 minutes.
 - Injured persons contaminated by contact with released material are not a serious hazard to health care
 personnel, equipment or facilities.
-Radioactive Materials
-(Low to Moderate Level Radiation)
 
 GUIDE
 163
@@ -3984,8 +3856,6 @@ Large Spill
 Fire
 - When a large quantity of this material is involved in a major fire, consider an initial evacuation distance of
 300 meters (1000 feet) in all directions.
-Radioactive Materials
-(Low to High Level Radiation)
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -4010,8 +3880,6 @@ Specific First Aid:
 - Do not delay care and transport of a seriously injured person.
 - Injured persons contaminated by contact with released material are not a serious hazard to health care
 personnel, equipment or facilities.
-Radioactive Materials
-(Low to High Level Radiation)
 
 GUIDE
 164
@@ -4064,7 +3932,6 @@ Large Spill
 Fire
 - When a large quantity of this material is involved in a major fire, consider an initial evacuation distance of
 300 meters (1000 feet) in all directions.
-Radioactive Materials (Special Form/
 Low to High Level External Radiation)
 EMERGENCY RESPONSE
 FIRE
@@ -4092,7 +3959,6 @@ Specific First Aid:
 - Persons exposed to special form sources are not likely to be contaminated with radioactive material.
 - Injured persons contaminated by contact with released material are not a serious hazard to health care
 personnel, equipment or facilities.
-Radioactive Materials (Special Form/
 Low to High Level External Radiation)
 
 GUIDE
@@ -4144,8 +4010,6 @@ Large Spill
 Fire
 - When a large quantity of this material is involved in a major fire, consider an initial evacuation distance of
 300 meters (1000 feet) in all directions.
-Radioactive Materials
-(Fissile/Low to High Level Radiation)
 EMERGENCY RESPONSE
 FIRE
 - Presence of radioactive material will not influence the fire control processes and should not influence
@@ -4171,8 +4035,6 @@ Specific First Aid:
 - Do not delay care and transport of a seriously injured person.
 - Injured persons contaminated by contact with released material are not a serious hazard to health care
 personnel, equipment or facilities.
-Radioactive Materials
-(Fissile/Low to High Level Radiation)
 
 GUIDE
 166
@@ -4222,7 +4084,6 @@ Spill
 Fire
 - When a large quantity of this material is involved in a major fire, consider an initial evacuation distance of
 300 meters (1000 feet) in all directions.
-Radioactive Materials - Corrosive
 (Uranium Hexafluoride/Water-Reactive)
 EMERGENCY RESPONSE
 FIRE
@@ -4254,7 +4115,6 @@ Specific First Aid:
 gel is available, rinse 5 minutes, then apply gel. Otherwise, continue rinsing until medical treatment is
 available.
 - Do not delay care and transport of a seriously injured person.
-Radioactive Materials - Corrosive
 (Uranium Hexafluoride/Water-Reactive)
 
 GUIDE
@@ -4480,7 +4340,6 @@ direction, as necessary.
 Fire
 - If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 800 meters (1/2 mile) in all
 directions; also, consider initial evacuation for 800 meters (1/2 mile) in all directions.
-Substances (Low to Moderate Hazard)
 EMERGENCY RESPONSE
 FIRE
 CAUTION: Fire involving Safety devices (UN3268) and Fire suppressant dispersing devices (UN3559) may
@@ -4514,7 +4373,6 @@ Large Spill
 - Prevent entry into waterways, sewers, basements or confined areas.
 FIRST AID
 Refer to the “General First Aid” section.
-Substances (Low to Moderate Hazard)
 
 GUIDE
 172

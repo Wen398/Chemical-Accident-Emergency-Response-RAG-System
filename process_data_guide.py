@@ -102,6 +102,55 @@ def process_guide_section(input_path, output_path):
             i += 1
             continue
 
+        # Filter repeated Footer/Header Titles
+        # These are guide titles that appear at the bottom/top of pages often split or repeated
+        is_title = False
+        title_patterns = [
+            r'^Substances\s*[-–(].*',
+            r'^Gases\s*[-–(].*',
+            r'^Explosives\*?(\s+[-–].*)?$',
+            r'^Mixed Load/Unidentified Cargo$',
+            r'^Flammable Materials.*',
+            r'^Flammable Liquids.*',
+            r'^Flammable Solids.*',
+            r'^Organic Peroxides.*',
+            r'^Oxidizing Substances.*',
+            r'^Radioactive Materials.*',
+            r'^Corrosive Substances.*',
+            r'^Infectious Substances.*',
+            # Parenthetical continuations of titles
+            r'^\(Non-Combustible\)$',
+            r'^\(Combustible\)$',
+            r'^\(Including Refrigerated Liquids\)$',
+            r'^\(Extreme Hazard\)$',
+            r'^\(Flammable.*\)$', 
+            r'^\(Water-.*\)$',
+            r'^\(Self-Reactive.*\)$',
+            r'^\(Wet/Desensitized Explosive\)$',
+            r'^\(Unstable\)$',
+            r'^\(Low.*Level Radiation\)$',
+            r'^\(Heat, Contamination and Friction Sensitive\)$',
+            r'^\(Heat and Contamination Sensitive\)$',
+            r'^\(Emitting Flammable Gases\)$',
+            r'^\(Fissile.*\)$',
+            r'^\(Including Refrigerant Gases\)$'
+        ]
+        
+        should_skip = False
+        for p in title_patterns:
+            if re.match(p, line):
+                should_skip = True
+                break
+        
+        if should_skip:
+             # Double check it's not "thermal camera..." if strict match missed it
+             if "thermal camera" in line:
+                 should_skip = False
+             
+        if should_skip:
+            i += 1
+            continue
+
         # Replace bullets
         clean_content = bullet_pattern.sub('- ', line)
         if clean_content:
