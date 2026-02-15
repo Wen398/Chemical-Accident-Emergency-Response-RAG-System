@@ -23,5 +23,23 @@ erg_chroma_db/
 # Logs
 *.log
 
-# Large PDF Files (Optional - if you want to avoid pushing large binaries)
-# *.pdf
+# 忽略開發過程中的原始數據與腳本 (Dev Artifacts)
+# 原始 PDF 檔案
+*.pdf
+
+# 過程中的純文字檔 (保留 Prepared Data 資料夾內的)
+*.txt
+!Prepared Data/*.txt
+!requirements.txt
+
+# 開發用的萃取與轉換腳本
+extract_*.py
+process_*.py
+pdf_to_text.py
+query_demo.py
+test_rag_scenarios.py
+
+# 雜項 json (保留 green_table_3.json 與 Prepared Data 內的)
+*.json
+!green_table_3.json
+!Prepared Data/*.json
