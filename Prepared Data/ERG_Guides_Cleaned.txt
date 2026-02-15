@@ -1,181 +1,80 @@
-# SUGGESTED OPERATIONS SHOULD ONLY BE PERFORMED BY ADEQUATELY TRAINED AND EQUIPPED PERSONNEL
+ERG GUIDES
 
-## HOW TO USE THE ORANGE GUIDES
+Document Purpose
 
-### GUIDE NUMBER AND TITLE
-- The guide title identifies the general hazards associated with the materials in this Guide.
+The Guides provide operational instructions for emergency
+responders handling hazardous materials incidents. Operations must only
+be performed by trained and properly equipped personnel.
 
-### POTENTIAL HAZARDS
-- Emergency responders should consult this section first!
-- Describes the material hazard in terms of FIRE OR EXPLOSION and HEALTH effects upon exposure.
-- The primary potential hazard is listed first.
-- Allows the responders to make decisions to protect the emergency response team, and the surrounding population.
+Guide Structure Overview
 
+Each guide is organized to support rapid decision-making in hazardous
+incidents. Sections are structured for retrieval systems and emergency
+workflows.
 
-GUIDE
-117
-POTENTIAL HAZARDS
-HEALTH
-- TOXIC; Extremely Hazardous.
-- May be fatal if inhaled or absorbed through skin.
-- Initial odor may be irritating or foul and may deaden your sense of smell.
-- Contact with gas or liquefied gas may cause burns, severe injury and/or frostbite.
-- Fire will produce irritating, corrosive and/or toxic gases.
-- Runoff from fire control or dilution water may cause environmental contamination.
-FIRE OR EXPLOSION
-- These materials are extremely flammable.
-- May form explosive mixtures with air.
-- May be ignited by heat, sparks or flames.
-- Vapors from liquefied gas are initially heavier than air and spread along ground.
-- Vapors may travel to source of ignition and flash back.
-- Those substances designated with a (P) may polymerize explosively when heated or involved in a fire.
-- Runoff may create fire or explosion hazard.
-- Cylinders exposed to fire may vent and release toxic and flammable gas through pressure relief devices.
-- Containers may explode when heated.
-- Ruptured cylinders may rocket.
-PUBLIC SAFETY
-- CALL 911. Then call emergency response telephone number on shipping paper. If shipping paper
-not available or no answer, refer to appropriate telephone number listed on the inside back cover.
-- Keep unauthorized personnel away.
-- Stay upwind, uphill and/or upstream.
-- Many gases are heavier than air and will spread along the ground and collect in low or confined areas
-(sewers, basements, tanks, etc.).
-- Ventilate closed spaces before entering, but only if properly trained and equipped.
-PROTECTIVE CLOTHING
-- Wear positive pressure self-contained breathing apparatus (SCBA).
-- Wear chemical protective clothing that is specifically recommended by the manufacturer when there is
-NO RISK OF FIRE.
-- Structural firefighters' protective clothing provides thermal protection but only limited chemical protection.
-EVACUATION
-Immediate precautionary measure
-- Isolate spill or leak area for at least 100 meters (330 feet) in all directions.
-Spill
-- See Table 1 - Initial Isolation and Protective Action Distances.
-Fire
-- If tank, rail tank car or highway tank is involved in a fire, ISOLATE for 1600 meters (1 mile) in all
-directions; also, consider initial evacuation for 1600 meters (1 mile) in all directions.
-EMERGENCY RESPONSE
-FIRE
-- DO NOT EXTINGUISH A LEAKING GAS FIRE UNLESS LEAK CAN BE STOPPED.
-Small Fire
-- Dry chemical, CO2, water spray or regular foam.
-Large Fire
-- Water spray, fog or regular foam.
-- If it can be done safely, move undamaged containers away from the area around the fire.
-- Damaged cylinders should be handled only by specialists.
-Fire Involving Tanks
-- Fight fire from maximum distance or use unmanned master stream devices or monitor nozzles.
-- Cool containers with flooding quantities of water until well after fire is out.
-- Do not direct water at source of leak or safety devices; icing may occur.
-- Withdraw immediately in case of rising sound from venting safety devices or discoloration of tank.
-- ALWAYS stay away from tanks in direct contact with flames.
-SPILL OR LEAK
-- ELIMINATE all ignition sources (no smoking, flares, sparks or flames) from immediate area.
-- All equipment used when handling the product must be grounded.
-- Do not touch or walk through spilled material.
-- Stop leak if you can do it without risk.
-- Use water spray to reduce vapors or divert vapor cloud drift. Avoid allowing water runoff to contact spilled
-material.
-- Do not direct water at spill or source of leak.
-- If possible, turn leaking containers so that gas escapes rather than liquid.
-- Prevent entry into waterways, sewers, basements or confined areas.
-- Isolate area until gas has dispersed.
-- Consider igniting spill or leak to eliminate toxic gas concerns.
-FIRST AID
-Refer to the “General First Aid” section.
-Specific First Aid:
-- In case of contact with liquefied gas, only medical personnel should attempt thawing frosted parts.
-- In case of burns, immediately cool affected skin for as long as possible with cold water. Do not remove
-clothing if adhering to skin.
-SUGGESTED OPERATIONS SHOULD ONLY BE PERFORMED BY
-ADEQUATELY TRAINED AND EQUIPPED PERSONNEL
-PUBLIC SAFETY
-- This section is divided into three subsections:
-››
-General Information: describes initial precautionary measures to be taken
-by those first on the scene.
-››
-PROTECTIVE CLOTHING: provides general guidance on personal
-protective equipment requirements including respiratory protection. The
-protective clothing information is general and correct selection is situation
-dependent, after considering the physical and chemical properties of the
-material, weather conditions, spill versus fire, topography, etc.
-››
-EVACUATION: suggests protective distances for immediate precautionary
-measures defined for small and large spills, including suggested guidance
-for conditions where fire is present or likely (potential fragmentation
-hazard).
-−−The term “isolate” indicates a zone of no entry that applies to the public
-and first responders who are not equipped, trained, and prepared to
-mitigate the incident.
-−−The term “evacuate” aims to protect as many people as possible by
-removing persons from inside a zone safely. If removal is too risky,
-sheltering-in-place can also be considered in this zone.
-- Materials highlighted in green in the yellow and blue sections direct the reader
-to consult Table 1, detailing specific response distances for toxic inhalation
-hazard materials and water-reactive materials (green section).
-EMERGENCY RESPONSE
-- This section is divided into three subsections:
-››
-FIRE: provides extinguishing procedures for Small Fire, Large Fire, and/
-or Fire Involving Tanks or Car/Trailer Loads
-››
-SPILL OR LEAK: includes general recommendations, and may describe
-the response procedure for Small Spill and Large Spill
-››
-FIRST AID: provides specific first aid guidance to use for a product or a
-guide in addition to the general first aid guidance for hazardous materials/
-dangerous goods incidents. General first aid guidance is found in the
-“General First Aid” section situated immediately after the “How to use the
-Orange Guides” section.
-•
-Call 911 or emergency medical service.
-•
-Ensure that medical personnel are aware of the material(s) involved, take precautions
-to protect themselves and avoid contamination.
-•
-Move victim to fresh air if it can be done safely.
-•
-Administer oxygen if breathing is difficult.
-•
-If victim is not breathing:
-––
-DO NOT perform mouth-to-mouth resuscitation; the victim may have ingested
-or inhaled the substance.
-––
-If equipped and pulse detected, wash face and mouth, then give artificial
-respiration using a proper respiratory medical device (bag-valve mask, pocket
-mask equipped with a one-way valve or other device).
-––
-If no pulse detected or no respiratory medical device available, provide continuous
-compressions. Conduct a pulse check every two minutes or monitor for any signs
-of spontaneous respirations.
-•
-Remove and isolate contaminated clothing and shoes.
-•
-For minor skin contact, avoid spreading material on unaffected skin.
-•
-In case of contact with substance, remove immediately by flushing skin or eyes with
-running water for at least 20 minutes.
-•
-For severe burns, immediate medical attention is required.
-•
-Effects of exposure (inhalation, ingestion, or skin contact) to substance may be delayed.
-•
-Keep victim calm and warm.
-•
-Keep victim under observation.
-•
-For further assistance, contact your local Poison Control Center.
-•
-Note: Basic Life Support (BLS) and Advanced Life Support (ALS) should be done
-by trained professionals.
-GENERAL FIRST AID
-NOTES
+1.  Guide Number and Title
+
+-   Identifies the general hazard category of the material.
+-   Used as the primary entry point for selecting response procedures.
+
+2.  Potential Hazards
+
+-   First section responders should consult.
+-   Describes hazards in two main categories:
+    a)  Fire or Explosion risks
+    b)  Health risks from exposure
+-   Lists the primary hazard first to aid prioritization.
+-   Supports responder and public safety decisions.
+
+3.  Public Safety Section This section provides immediate precautionary
+    measures.
+
+Subsections: - General Information: Initial precautions for first
+responders, including keeping unauthorized personnel away and
+approaching from safe directions (upwind/uphill/upstream).
+
+-   Protective Clothing: Guidance on personal protective equipment
+    (PPE), including respiratory protection. Final selection depends on:
+    • Chemical properties • Fire vs spill conditions • Weather
+    conditions • Terrain and surroundings
+
+-   Evacuation: Provides isolation and evacuation guidance. Definitions:
+    • Isolate: restrict entry to an area except trained and equipped
+    personnel. • Evacuate: remove people safely from hazard zones or
+    shelter-in-place if evacuation is unsafe. Distances vary based on
+    spill size and fire involvement. Some materials require consulting
+    distance tables for toxic inhalation or water-reactive hazards.
+
+4.  Emergency Response Section Operational actions during incidents.
+
+Subsections: - Fire: Firefighting procedures for: • Small fires • Large
+fires • Fires involving tanks or transport vehicles
+
+-   Spill or Leak: General recommendations include: • Eliminate ignition
+    sources • Avoid contact with material • Stop leak only if safe •
+    Prevent contamination of waterways or confined areas • Isolate area
+    until hazard dissipates
+
+-   First Aid: Product-specific guidance used in addition to general
+    hazardous materials first aid procedures.
+
+5.  General First Aid Principles Core emergency medical response actions
+    include:
+
+-   Call emergency medical services immediately.
+-   Protect medical personnel from contamination.
+-   Move victim to fresh air if safe.
+-   Provide oxygen if breathing difficulty occurs.
+-   Avoid mouth-to-mouth resuscitation when contamination risk exists.
+-   Use proper medical respiratory devices if available.
+-   Remove contaminated clothing safely.
+-   Flush exposed skin or eyes with water for at least 20 minutes.
+-   Seek immediate medical attention for severe burns.
+-   Monitor victims because symptoms may be delayed.
+-   Keep victim calm and warm until help arrives.
 
 GUIDE
 111
-Guides (orange section)
 POTENTIAL HAZARDS
 FIRE OR EXPLOSION
 - May explode from heat, shock, friction or contamination.

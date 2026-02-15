@@ -20,4 +20,4 @@ def split_pdf(input_path, output_path, start_page, end_page):
 # split_pdf("ERG2024-Eng-Web-a.pdf", "ERG_Material_Yellow_Section.pdf",  30, 89)
 # split_pdf("ERG2024-Eng-Web-a.pdf", "ERG_Material_Blue_Section.pdf", 90, 149)
 # split_pdf("ERG2024-Eng-Web-a.pdf", "ERG_Guide_Section.pdf", 150, 281)
-split_pdf("ERG2024-Eng-Web-a.pdf", "TIH_Table3.pdf",  343, 345)
+split_pdf("ERG2024-Eng-Web-a.pdf", "Guide_introduction.pdf",  148, 150)

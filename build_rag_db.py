@@ -11,6 +11,7 @@ INDEX_FILE = os.path.join(DATA_DIR, "ERG_Index_Processed.txt")
 GUIDES_FILE = os.path.join(DATA_DIR, "ERG_Guides_Cleaned.txt")
 GREEN_TABLE_1 = os.path.join(DATA_DIR, "green_table_1.json")
 GREEN_TABLE_2 = os.path.join(DATA_DIR, "green_table_2.json")
+GREEN_TABLE_3 = os.path.join(DATA_DIR, "green_table_3.json")
 
 def load_json(path: str) -> Dict:
     with open(path, 'r', encoding='utf-8') as f:
@@ -45,7 +46,7 @@ def parse_erg_index(path: str) -> List[Dict[str, Any]]:
                 })
     return materials
 
-def enrich_materials(materials: List[Dict], gt1: Dict, gt2: Dict) -> List[Dict]:
+def enrich_materials(materials: List[Dict], gt1: Dict, gt2: Dict, gt3_lookup: Dict) -> List[Dict]:
     enriched = []
     for mat in materials:
         un_id = mat['un_id']
@@ -58,6 +59,7 @@ def enrich_materials(materials: List[Dict], gt1: Dict, gt2: Dict) -> List[Dict]:
         mat['large_day'] = ''
         mat['large_night'] = ''
         mat['large_note'] = '' # For "Refer to Table 3"
+        mat['table3_content'] = '' # New field for Table 3
         
         # Add Green Table 1 info (Isolation Distances)
         if un_id in gt1:
@@ -88,6 +90,20 @@ def enrich_materials(materials: List[Dict], gt1: Dict, gt2: Dict) -> List[Dict]:
             mat['is_water_reactive'] = False
             mat['water_reactive_gases'] = ""
             
+        # Add Green Table 3 info (Detailed Large Spills)
+        if un_id in gt3_lookup:
+            t3_data = gt3_lookup[un_id]
+            # Format Table 3 data as text to append to full_text
+            t3_text = f"\n[Detailed Large Spill Data (Table 3) for {mat['name']}]\n"
+            for container in t3_data.get('containers', []):
+                t3_text += f"- Container: {container['type']}\n"
+                t3_text += f"  Initial Isolation: {container['initial_isolation_m']} meters\n"
+                t3_text += f"  Protective Distance (Day): Low Wind: {container['day_km']['low_wind']}km, Moderate: {container['day_km']['moderate_wind']}km, High: {container['day_km']['high_wind']}km\n"
+                t3_text += f"  Protective Distance (Night): Low Wind: {container['night_km']['low_wind']}km, Moderate: {container['night_km']['moderate_wind']}km, High: {container['night_km']['high_wind']}km\n"
+            
+            mat['table3_content'] = t3_text
+            mat['full_text'] += t3_text # Append to document content for retrieval
+
         enriched.append(mat)
     return enriched
 
@@ -112,7 +128,7 @@ def parse_guides(path: str) -> List[Dict[str, Any]]:
     
     parsed_chunks = []
     
-    for section in raw_guides:
+    for idx, section in enumerate(raw_guides):
         if not section.strip():
             continue
             
@@ -122,9 +138,15 @@ def parse_guides(path: str) -> List[Dict[str, Any]]:
             
         # First line should be the guide number
         guide_no_match = re.match(r'^(\d+[A-Z]?)', lines[0].strip())
+        
         if not guide_no_match:
-            # Maybe it's the very first chunk which might not have the split pattern preceding it if file starts with GUIDE
-            # Or it's just garbage.
+            # If it's the first chunk and doesn't look like a guide number, treat it as Introduction/General Info
+            if idx == 0:
+                parsed_chunks.append({
+                    "guide_no": "000", # Virtual guide number for Intro
+                    "section": "INTRODUCTION",
+                    "text": f"GUIDE 000 - INTRODUCTION / GENERAL INFO\n\n{section}",
+                })
             continue
             
         guide_no = guide_no_match.group(1)
@@ -204,8 +226,17 @@ def main():
     materials = parse_erg_index(INDEX_FILE)
     gt1 = load_json(GREEN_TABLE_1)
     gt2 = load_json(GREEN_TABLE_2)
+    gt3_raw = load_json(GREEN_TABLE_3)
     
-    enriched_materials = enrich_materials(materials, gt1, gt2)
+    # Process GT3 into a lookup dict by UN ID (without UN prefix)
+    gt3_lookup = {}
+    if 'chemicals' in gt3_raw:
+        for chem in gt3_raw['chemicals']:
+            # un_number is like "UN1005"
+            un_id = chem['un_number'].replace("UN", "")
+            gt3_lookup[un_id] = chem
+    
+    enriched_materials = enrich_materials(materials, gt1, gt2, gt3_lookup)
     
     # Prepare batch data
     ids = []

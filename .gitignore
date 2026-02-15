@@ -1,3 +1,27 @@
-# 忽略 Python 虛擬環境
+# Python Virtual Environment
 venv/
 .venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code Settings
+.vscode/
+
+# RAG Database (Local builds)
+erg_chroma_db/
+
+# Logs
+*.log
+
+# Large PDF Files (Optional - if you want to avoid pushing large binaries)
+# *.pdf
