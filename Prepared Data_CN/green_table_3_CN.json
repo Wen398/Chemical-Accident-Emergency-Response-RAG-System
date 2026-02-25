@@ -1,0 +1,420 @@
+{
+  "table": "TIH Table 3 - Initial Isolation and Protective Action Distances (Large Spills) (表3 - 初始隔離與防護距離 (大洩漏))",
+  "units": {
+    "isolation_distance": "meters (公尺)",
+    "protective_distance": "kilometers (公里)"
+  },
+  "chemicals": [
+    {
+      "un_number": "UN1005",
+      "name": "Ammonia, anhydrous/Anhydrous ammonia (無水氨 / 液氨)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 300,
+          "day_km": {
+            "low_wind": 1.6,
+            "moderate_wind": 1.2,
+            "high_wind": 1.0
+          },
+          "night_km": {
+            "low_wind": 4.1,
+            "moderate_wind": 2.1,
+            "high_wind": 1.3
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 150,
+          "day_km": {
+            "low_wind": 0.8,
+            "moderate_wind": 0.5,
+            "high_wind": 0.4
+          },
+          "night_km": {
+            "low_wind": 1.8,
+            "moderate_wind": 0.7,
+            "high_wind": 0.6
+          }
+        },
+        {
+          "type": "Agricultural nurse tank (農業用灌裝槽)",
+          "initial_isolation_m": 60,
+          "day_km": {
+            "low_wind": 0.5,
+            "moderate_wind": 0.3,
+            "high_wind": 0.3
+          },
+          "night_km": {
+            "low_wind": 1.4,
+            "moderate_wind": 0.3,
+            "high_wind": 0.3
+          }
+        },
+        {
+          "type": "Multiple small cylinders (多個小型鋼瓶)",
+          "initial_isolation_m": 30,
+          "day_km": {
+            "low_wind": 0.3,
+            "moderate_wind": 0.2,
+            "high_wind": 0.1
+          },
+          "night_km": {
+            "low_wind": 0.7,
+            "moderate_wind": 0.3,
+            "high_wind": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "un_number": "UN1017",
+      "name": "Chlorine (氯)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 1000,
+          "day_km": {
+            "low_wind": 9.6,
+            "moderate_wind": 6.3,
+            "high_wind": 5.1
+          },
+          "night_km": {
+            "low_wind": 11.0,
+            "moderate_wind": 8.9,
+            "high_wind": 6.5
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 600,
+          "day_km": {
+            "low_wind": 5.6,
+            "moderate_wind": 3.3,
+            "high_wind": 2.5
+          },
+          "night_km": {
+            "low_wind": 6.4,
+            "moderate_wind": 4.7,
+            "high_wind": 3.8
+          }
+        },
+        {
+          "type": "Multiple ton cylinders (多個噸級鋼瓶)",
+          "initial_isolation_m": 300,
+          "day_km": {
+            "low_wind": 1.9,
+            "moderate_wind": 1.3,
+            "high_wind": 1.0
+          },
+          "night_km": {
+            "low_wind": 3.5,
+            "moderate_wind": 2.3,
+            "high_wind": 1.3
+          }
+        },
+        {
+          "type": "Multiple small cylinders or single ton cylinder (多個小型鋼瓶或單個噸級鋼瓶)",
+          "initial_isolation_m": 150,
+          "day_km": {
+            "low_wind": 1.3,
+            "moderate_wind": 0.7,
+            "high_wind": 0.5
+          },
+          "night_km": {
+            "low_wind": 2.4,
+            "moderate_wind": 1.2,
+            "high_wind": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "un_number": "UN1040",
+      "name": "Ethylene oxide/Ethylene oxide with nitrogen (環氧乙烷 / 環氧乙烷與氮氣混合物)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 200,
+          "day_km": {
+            "low_wind": 1.5,
+            "moderate_wind": 0.8,
+            "high_wind": 0.7
+          },
+          "night_km": {
+            "low_wind": 3.0,
+            "moderate_wind": 1.4,
+            "high_wind": 0.8
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 100,
+          "day_km": {
+            "low_wind": 0.9,
+            "moderate_wind": 0.5,
+            "high_wind": 0.4
+          },
+          "night_km": {
+            "low_wind": 2.0,
+            "moderate_wind": 0.7,
+            "high_wind": 0.4
+          }
+        },
+        {
+          "type": "Multiple small cylinders or single ton cylinder (多個小型鋼瓶或單個噸級鋼瓶)",
+          "initial_isolation_m": 30,
+          "day_km": {
+            "low_wind": 0.4,
+            "moderate_wind": 0.2,
+            "high_wind": 0.1
+          },
+          "night_km": {
+            "low_wind": 0.8,
+            "moderate_wind": 0.3,
+            "high_wind": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "un_number": "UN2186",
+      "name": "Hydrogen chloride, refrigerated liquid (氯化氫，冷凍液體)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 500,
+          "day_km": {
+            "low_wind": 3.7,
+            "moderate_wind": 2.0,
+            "high_wind": 1.7
+          },
+          "night_km": {
+            "low_wind": 9.7,
+            "moderate_wind": 3.3,
+            "high_wind": 2.2
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 200,
+          "day_km": {
+            "low_wind": 1.5,
+            "moderate_wind": 0.8,
+            "high_wind": 0.6
+          },
+          "night_km": {
+            "low_wind": 3.7,
+            "moderate_wind": 1.5,
+            "high_wind": 0.8
+          }
+        },
+        {
+          "type": "Multiple ton cylinders (多個噸級鋼瓶)",
+          "initial_isolation_m": 30,
+          "day_km": {
+            "low_wind": 0.4,
+            "moderate_wind": 0.2,
+            "high_wind": 0.1
+          },
+          "night_km": {
+            "low_wind": 1.0,
+            "moderate_wind": 0.3,
+            "high_wind": 0.1
+          }
+        },
+        {
+          "type": "Multiple small cylinders or single ton cylinder (多個小型鋼瓶或單個噸級鋼瓶)",
+          "initial_isolation_m": 30,
+          "day_km": {
+            "low_wind": 0.3,
+            "moderate_wind": 0.2,
+            "high_wind": 0.1
+          },
+          "night_km": {
+            "low_wind": 0.9,
+            "moderate_wind": 0.3,
+            "high_wind": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "un_number": "UN1050",
+      "name": "Hydrogen chloride anhydrous (無水氯化氫)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 500,
+          "day_km": {
+            "low_wind": 3.7,
+            "moderate_wind": 2.0,
+            "high_wind": 1.7
+          },
+          "night_km": {
+            "low_wind": 9.7,
+            "moderate_wind": 3.3,
+            "high_wind": 2.2
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 200,
+          "day_km": {
+            "low_wind": 1.5,
+            "moderate_wind": 0.8,
+            "high_wind": 0.6
+          },
+          "night_km": {
+            "low_wind": 3.7,
+            "moderate_wind": 1.5,
+            "high_wind": 0.8
+          }
+        },
+        {
+          "type": "Multiple ton cylinders (多個噸級鋼瓶)",
+          "initial_isolation_m": 30,
+          "day_km": {
+            "low_wind": 0.4,
+            "moderate_wind": 0.2,
+            "high_wind": 0.1
+          },
+          "night_km": {
+            "low_wind": 1.0,
+            "moderate_wind": 0.3,
+            "high_wind": 0.1
+          }
+        },
+        {
+          "type": "Multiple small cylinders or single ton cylinder (多個小型鋼瓶或單個噸級鋼瓶)",
+          "initial_isolation_m": 30,
+          "day_km": {
+            "low_wind": 0.3,
+            "moderate_wind": 0.2,
+            "high_wind": 0.1
+          },
+          "night_km": {
+            "low_wind": 0.9,
+            "moderate_wind": 0.3,
+            "high_wind": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "un_number": "UN1052",
+      "name": "Hydrogen fluoride, anhydrous (無水氟化氫)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 500,
+          "day_km": {
+            "low_wind": 3.4,
+            "moderate_wind": 2.1,
+            "high_wind": 1.8
+          },
+          "night_km": {
+            "low_wind": 6.4,
+            "moderate_wind": 3.0,
+            "high_wind": 1.9
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 200,
+          "day_km": {
+            "low_wind": 2.0,
+            "moderate_wind": 1.0,
+            "high_wind": 0.9
+          },
+          "night_km": {
+            "low_wind": 3.6,
+            "moderate_wind": 1.5,
+            "high_wind": 0.9
+          }
+        },
+        {
+          "type": "Multiple small cylinders or single ton cylinder (多個小型鋼瓶或單個噸級鋼瓶)",
+          "initial_isolation_m": 100,
+          "day_km": {
+            "low_wind": 0.8,
+            "moderate_wind": 0.4,
+            "high_wind": 0.3
+          },
+          "night_km": {
+            "low_wind": 1.7,
+            "moderate_wind": 0.5,
+            "high_wind": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "un_number": "UN1079",
+      "name": "Sulfur dioxide / Sulphur dioxide (二氧化硫)",
+      "containers": [
+        {
+          "type": "Rail tank car (鐵路槽車)",
+          "initial_isolation_m": 1000,
+          "day_km": {
+            "low_wind": 11.0,
+            "moderate_wind": 11.0,
+            "high_wind": 6.9
+          },
+          "night_km": {
+            "low_wind": 11.0,
+            "moderate_wind": 11.0,
+            "high_wind": 9.6
+          }
+        },
+        {
+          "type": "Highway tank truck or trailer (公路槽車或拖車)",
+          "initial_isolation_m": 1000,
+          "day_km": {
+            "low_wind": 11.0,
+            "moderate_wind": 6.0,
+            "high_wind": 5.0
+          },
+          "night_km": {
+            "low_wind": 11.0,
+            "moderate_wind": 7.9,
+            "high_wind": 6.0
+          }
+        },
+        {
+          "type": "Multiple ton cylinders (多個噸級鋼瓶)",
+          "initial_isolation_m": 500,
+          "day_km": {
+            "low_wind": 5.2,
+            "moderate_wind": 2.2,
+            "high_wind": 1.7
+          },
+          "night_km": {
+            "low_wind": 7.4,
+            "moderate_wind": 4.0,
+            "high_wind": 2.7
+          }
+        },
+        {
+          "type": "Multiple small cylinders or single ton cylinder (多個小型鋼瓶或單個噸級鋼瓶)",
+          "initial_isolation_m": 200,
+          "day_km": {
+            "low_wind": 3.1,
+            "moderate_wind": 1.5,
+            "high_wind": 1.1
+          },
+          "night_km": {
+            "low_wind": 5.6,
+            "moderate_wind": 2.4,
+            "high_wind": 1.5
+          }
+        }
+      ]
+    }
+  ],
+  "wind_definitions": {
+    "low_wind": "< 6 mph (< 10 km/h) (微風)",
+    "moderate_wind": "6-12 mph (10 - 20 km/h) (中度風)",
+    "high_wind": "> 12 mph (> 20 km/h) (強風)"
+  }
+}

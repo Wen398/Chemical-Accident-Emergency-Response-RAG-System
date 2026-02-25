@@ -219,8 +219,13 @@ def build_db():
     gt3_lookup = {}
     if "chemicals" in gt3:
         for chem in gt3["chemicals"]:
-            if "un_id" in chem:
-                gt3_lookup[str(chem["un_id"])] = chem # Store full object
+            # Correct key is un_number (e.g., "UN1005"). We need just "1005"
+            if "un_number" in chem:
+                full_un = str(chem["un_number"])
+                # Extract digits
+                un_digits = "".join(filter(str.isdigit, full_un))
+                if un_digits:
+                    gt3_lookup[un_digits] = chem # Map "1005" -> Object
     
     # 2. Parse Index (Materials)
     print("Parsing ERG Index...")
@@ -258,7 +263,8 @@ def build_db():
             "large_iso": mat.get('large_iso', ""),
             "large_day": mat.get('large_day', ""),
             "large_night": mat.get('large_night', ""),
-            "large_note": mat.get('large_note', "")
+            "large_note": mat.get('large_note', ""),
+            "table3_content": mat.get('table3_content', "")
         }
         mat_metas.append(meta)
         

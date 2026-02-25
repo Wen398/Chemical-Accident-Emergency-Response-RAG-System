@@ -1,0 +1,946 @@
+{
+    "1162": [
+        {
+            "guide_no": "155",
+            "material_name": "Dimethyldichlorosilane (二甲基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1183": [
+        {
+            "guide_no": "139",
+            "material_name": "Ethyldichlorosilane (乙基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1196": [
+        {
+            "guide_no": "155",
+            "material_name": "Ethyltrichlorosilane (乙基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1242": [
+        {
+            "guide_no": "139",
+            "material_name": "Methyldichlorosilane (甲基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1250": [
+        {
+            "guide_no": "155",
+            "material_name": "Methyltrichlorosilane (甲基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1295": [
+        {
+            "guide_no": "139",
+            "material_name": "Trichlorosilane (三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1298": [
+        {
+            "guide_no": "155",
+            "material_name": "Trimethylchlorosilane (三甲基氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1340": [
+        {
+            "guide_no": "139",
+            "material_name": "Phosphorus pentasulfide, free from yellow and white phosphorus (五硫化二磷，不含黃磷及白磷)",
+            "tih_gases": [
+                "H2S"
+            ]
+        },
+        {
+            "guide_no": "139",
+            "material_name": "Phosphorus pentasulphide, free from yellow and white phosphorus (五硫化二磷，不含黃磷及白磷)",
+            "tih_gases": [
+                "H2S"
+            ]
+        }
+    ],
+    "1360": [
+        {
+            "guide_no": "139",
+            "material_name": "Calcium phosphide (磷化鈣)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1384": [
+        {
+            "guide_no": "135",
+            "material_name": "Sodium dithionite (連二亞硫酸鈉 (保險粉))",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Sodium hydrosulfite (連二亞硫酸鈉 (保險粉))",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Sodium hydrosulphite (連二亞硫酸鈉 (保險粉))",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "1390": [
+        {
+            "guide_no": "139",
+            "material_name": "Alkali metal amides (鹼金屬胺基化物)",
+            "tih_gases": [
+                "NH"
+            ]
+        }
+    ],
+    "1397": [
+        {
+            "guide_no": "139",
+            "material_name": "Aluminum phosphide (磷化鋁)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1419": [
+        {
+            "guide_no": "139",
+            "material_name": "Magnesium aluminum phosphide (磷化鋁鎂)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1432": [
+        {
+            "guide_no": "139",
+            "material_name": "Sodium phosphide (磷化鈉)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "1541": [
+        {
+            "guide_no": "156",
+            "material_name": "Acetone cyanohydrin, stabilized (丙酮氰醇，穩定化的)",
+            "tih_gases": [
+                "HCN"
+            ]
+        }
+    ],
+    "1680": [
+        {
+            "guide_no": "157",
+            "material_name": "Potassium cyanide, solid (氰化鉀，固體的)",
+            "tih_gases": [
+                "HCN"
+            ]
+        }
+    ],
+    "1689": [
+        {
+            "guide_no": "157",
+            "material_name": "Sodium cyanide, solid (氰化鈉，固體的)",
+            "tih_gases": [
+                "HCN"
+            ]
+        }
+    ],
+    "1716": [
+        {
+            "guide_no": "156",
+            "material_name": "Acetyl bromide (乙醯溴)",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "1717": [
+        {
+            "guide_no": "155",
+            "material_name": "Acetyl chloride (乙醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1724": [
+        {
+            "guide_no": "155",
+            "material_name": "Allyltrichlorosilane, stabilized (烯丙基三氯矽烷，穩定化的)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1725": [
+        {
+            "guide_no": "137",
+            "material_name": "Aluminum bromide, anhydrous (無水溴化鋁)",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "1726": [
+        {
+            "guide_no": "137",
+            "material_name": "Aluminum chloride, anhydrous (無水氯化鋁)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1728": [
+        {
+            "guide_no": "156",
+            "material_name": "Amyltrichlorosilane (戊基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1732": [
+        {
+            "guide_no": "157",
+            "material_name": "Antimony pentafluoride (五氟化銻)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "1741": [
+        {
+            "guide_no": "125",
+            "material_name": "Boron trichloride (三氯化硼)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1745": [
+        {
+            "guide_no": "144",
+            "material_name": "Bromine pentafluoride (五氟化溴)",
+            "tih_gases": [
+                "HF",
+                "Br2"
+            ]
+        }
+    ],
+    "1746": [
+        {
+            "guide_no": "144",
+            "material_name": "Bromine trifluoride (三氟化溴)",
+            "tih_gases": [
+                "HF",
+                "Br2"
+            ]
+        }
+    ],
+    "1747": [
+        {
+            "guide_no": "155",
+            "material_name": "Butyltrichlorosilane (丁基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1752": [
+        {
+            "guide_no": "156",
+            "material_name": "Chloroacetyl chloride (氯乙醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1753": [
+        {
+            "guide_no": "156",
+            "material_name": "Chlorophenyltrichlorosilane (氯苯基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1754": [
+        {
+            "guide_no": "137",
+            "material_name": "Chlorosulfonic acid (with or without sulfur trioxide) (氯磺酸 (含或不含三氧化硫))",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Chlorosulphonic acid (with or without sulphur trioxide) (氯磺酸 (含或不含三氧化硫))",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1758": [
+        {
+            "guide_no": "137",
+            "material_name": "Chromium oxychloride (鉻醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1762": [
+        {
+            "guide_no": "156",
+            "material_name": "Cyclohexenyltrichlorosilane (環己烯基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1763": [
+        {
+            "guide_no": "156",
+            "material_name": "Cyclohexyltrichlorosilane (環己基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1765": [
+        {
+            "guide_no": "156",
+            "material_name": "Dichloroacetyl chloride (二氯乙醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1766": [
+        {
+            "guide_no": "156",
+            "material_name": "Dichlorophenyltrichlorosilane (二氯苯基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1767": [
+        {
+            "guide_no": "155",
+            "material_name": "Diethyldichlorosilane (二乙基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1769": [
+        {
+            "guide_no": "156",
+            "material_name": "Diphenyldichlorosilane (二苯基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1771": [
+        {
+            "guide_no": "156",
+            "material_name": "Dodecyltrichlorosilane (十二烷基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1777": [
+        {
+            "guide_no": "137",
+            "material_name": "Fluorosulfonic acid (氟磺酸)",
+            "tih_gases": [
+                "HF"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Fluorosulphonic acid (氟磺酸)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "1781": [
+        {
+            "guide_no": "156",
+            "material_name": "Hexadecyltrichlorosilane (十六烷基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1784": [
+        {
+            "guide_no": "156",
+            "material_name": "Hexyltrichlorosilane (己基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1799": [
+        {
+            "guide_no": "156",
+            "material_name": "Nonyltrichlorosilane (壬基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1800": [
+        {
+            "guide_no": "156",
+            "material_name": "Octadecyltrichlorosilane (十八烷基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1801": [
+        {
+            "guide_no": "156",
+            "material_name": "Octyltrichlorosilane (辛基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1804": [
+        {
+            "guide_no": "156",
+            "material_name": "Phenyltrichlorosilane (苯基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1806": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus pentachloride (五氯化磷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1808": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus tribromide (三溴化磷)",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "1809": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus trichloride (三氯化磷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1810": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus oxychloride (三氯氧磷 (磷醯氯))",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1815": [
+        {
+            "guide_no": "155",
+            "material_name": "Propionyl chloride (丙醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1816": [
+        {
+            "guide_no": "155",
+            "material_name": "Propyltrichlorosilane (丙基三氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1818": [
+        {
+            "guide_no": "157",
+            "material_name": "Silicon tetrachloride (四氯化矽)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1828": [
+        {
+            "guide_no": "137",
+            "material_name": "Sulfur chlorides (氯化硫)",
+            "tih_gases": [
+                "HCl",
+                "SO2",
+                "H2S"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Sulphur chlorides (氯化硫)",
+            "tih_gases": [
+                "HCl",
+                "SO2",
+                "H2S"
+            ]
+        }
+    ],
+    "1834": [
+        {
+            "guide_no": "137",
+            "material_name": "Sulfuryl chloride (硫醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "137",
+            "material_name": "Sulphuryl chloride (硫醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1836": [
+        {
+            "guide_no": "137",
+            "material_name": "Thionyl chloride (亞硫醯氯 (氯化亞碸))",
+            "tih_gases": [
+                "HCl",
+                "SO2"
+            ]
+        }
+    ],
+    "1838": [
+        {
+            "guide_no": "137",
+            "material_name": "Titanium tetrachloride (四氯化鈦)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "1898": [
+        {
+            "guide_no": "156",
+            "material_name": "Acetyl iodide (乙醯碘)",
+            "tih_gases": [
+                "HI"
+            ]
+        }
+    ],
+    "1923": [
+        {
+            "guide_no": "135",
+            "material_name": "Calcium dithionite (連二亞硫酸鈣)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Calcium hydrosulfite (連二亞硫酸鈣)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Calcium hydrosulphite (連二亞硫酸鈣)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "1929": [
+        {
+            "guide_no": "135",
+            "material_name": "Potassium dithionite (連二亞硫酸鉀)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Potassium hydrosulfite (連二亞硫酸鉀)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "135",
+            "material_name": "Potassium hydrosulphite (連二亞硫酸鉀)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "1931": [
+        {
+            "guide_no": "171",
+            "material_name": "Zinc dithionite (連二亞硫酸鋅)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "171",
+            "material_name": "Zinc hydrosulfite (連二亞硫酸鋅)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        },
+        {
+            "guide_no": "171",
+            "material_name": "Zinc hydrosulphite (連二亞硫酸鋅)",
+            "tih_gases": [
+                "H2S",
+                "SO2"
+            ]
+        }
+    ],
+    "2004": [
+        {
+            "guide_no": "135",
+            "material_name": "Magnesium diamide (二胺基鎂)",
+            "tih_gases": [
+                "NH"
+            ]
+        }
+    ],
+    "2011": [
+        {
+            "guide_no": "139",
+            "material_name": "Magnesium phosphide (磷化鎂)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "2012": [
+        {
+            "guide_no": "139",
+            "material_name": "Potassium phosphide (磷化鉀)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "2013": [
+        {
+            "guide_no": "139",
+            "material_name": "Strontium phosphide (磷化鍶)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "2308": [
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulfuric acid, liquid (亞硝醯硫酸，液體的)",
+            "tih_gases": [
+                "NO2"
+            ]
+        },
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulphuric acid, liquid (亞硝醯硫酸，液體的)",
+            "tih_gases": [
+                "NO2"
+            ]
+        }
+    ],
+    "2353": [
+        {
+            "guide_no": "155",
+            "material_name": "Butyryl chloride (丁醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2395": [
+        {
+            "guide_no": "155",
+            "material_name": "Isobutyryl chloride (異丁醯氯)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2434": [
+        {
+            "guide_no": "156",
+            "material_name": "Dibenzyldichlorosilane (二苄基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2435": [
+        {
+            "guide_no": "156",
+            "material_name": "Ethylphenyldichlorosilane (乙基苯基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2437": [
+        {
+            "guide_no": "156",
+            "material_name": "Methylphenyldichlorosilane (甲基苯基二氯矽烷)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2495": [
+        {
+            "guide_no": "144",
+            "material_name": "Iodine pentafluoride (五氟化碘)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2691": [
+        {
+            "guide_no": "137",
+            "material_name": "Phosphorus pentabromide (五溴化磷)",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "2692": [
+        {
+            "guide_no": "157",
+            "material_name": "Boron tribromide (三溴化硼)",
+            "tih_gases": [
+                "HBr"
+            ]
+        }
+    ],
+    "2806": [
+        {
+            "guide_no": "139",
+            "material_name": "Lithium nitride (氮化鋰)",
+            "tih_gases": [
+                "NH"
+            ]
+        }
+    ],
+    "2965": [
+        {
+            "guide_no": "139",
+            "material_name": "Boron trifluoride dimethyl etherate (三氟化硼二甲醚絡合物)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2977": [
+        {
+            "guide_no": "166",
+            "material_name": "Radioactive material, uranium hexafluoride, fissile (放射性物質，六氟化鈾，可裂變)",
+            "tih_gases": [
+                "HF"
+            ]
+        },
+        {
+            "guide_no": "166",
+            "material_name": "Uranium hexafluoride, radioactive material, fissile (六氟化鈾，放射性物質，可裂變)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2978": [
+        {
+            "guide_no": "166",
+            "material_name": "Radioactive material, uranium hexafluoride, non fissile or fissile-excepted (放射性物質，六氟化鈾，非可裂變或豁免可裂變)",
+            "tih_gases": [
+                "HF"
+            ]
+        },
+        {
+            "guide_no": "166",
+            "material_name": "Uranium hexafluoride, radioactive material, non fissile or fissile-excepted (六氟化鈾，放射性物質，非可裂變或豁免可裂變)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "2985": [
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, flammable, corrosive, n.o.s. (氯矽烷類，易燃的，腐蝕性的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2986": [
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, corrosive, flammable, n.o.s. (氯矽烷類，腐蝕性的，易燃的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2987": [
+        {
+            "guide_no": "156",
+            "material_name": "Chlorosilanes, corrosive, n.o.s. (氯矽烷類，腐蝕性的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "2988": [
+        {
+            "guide_no": "139",
+            "material_name": "Chlorosilanes, water-reactive, flammable, corrosive, n.o.s. (氯矽烷類，遇水反應的，易燃的，腐蝕性的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "3048": [
+        {
+            "guide_no": "157",
+            "material_name": "Aluminum phosphide pesticide (磷化鋁農藥)",
+            "tih_gases": [
+                "PH"
+            ]
+        }
+    ],
+    "3361": [
+        {
+            "guide_no": "156",
+            "material_name": "Chlorosilanes, poisonous, corrosive, n.o.s. (氯矽烷類，有毒的，腐蝕性的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "156",
+            "material_name": "Chlorosilanes, toxic, corrosive, n.o.s. (氯矽烷類，有毒的，腐蝕性的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "3362": [
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, poisonous, corrosive, flammable, n.o.s. (氯矽烷類，有毒的，腐蝕性的，易燃的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        },
+        {
+            "guide_no": "155",
+            "material_name": "Chlorosilanes, toxic, corrosive, flammable, n.o.s. (氯矽烷類，有毒的，腐蝕性的，易燃的，未另列名)",
+            "tih_gases": [
+                "HCl"
+            ]
+        }
+    ],
+    "3456": [
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulfuric acid, solid (亞硝醯硫酸，固體的)",
+            "tih_gases": [
+                "NO2"
+            ]
+        },
+        {
+            "guide_no": "157",
+            "material_name": "Nitrosylsulphuric acid, solid (亞硝醯硫酸，固體的)",
+            "tih_gases": [
+                "NO2"
+            ]
+        }
+    ],
+    "3507": [
+        {
+            "guide_no": "166",
+            "material_name": "Uranium hexafluoride, radioactive material, excepted package, less than 0.1 kg per package, non-fissile or fissile-excepted (六氟化鈾，放射性物質，例外包裝，每包裝少於0.1公斤，非可裂變或豁免可裂變)",
+            "tih_gases": [
+                "HF"
+            ]
+        }
+    ],
+    "9191": [
+        {
+            "guide_no": "143",
+            "material_name": "Chlorine dioxide, hydrate, frozen (二氧化氯，水合物，冷凍的)",
+            "tih_gases": [
+                "Cl2"
+            ]
+        }
+    ]
+}

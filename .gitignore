@@ -19,6 +19,7 @@ __pycache__/
 
 # RAG Database (Local builds)
 erg_chroma_db/
+erg_chroma_db_cn/
 
 # Logs
 *.log
@@ -30,6 +31,7 @@ erg_chroma_db/
 # 過程中的純文字檔 (保留 Prepared Data 資料夾內的)
 *.txt
 !Prepared Data/*.txt
+!Prepared Data_CN/*.txt
 !requirements.txt
 
 # 開發用的萃取與轉換腳本
@@ -38,8 +40,22 @@ process_*.py
 pdf_to_text.py
 query_demo.py
 test_rag_scenarios.py
+analyze_*.py
+apply_*.py
+check_missing_translations.py
+sync_names.py
+translate_data.py
+fix_erg_guide_format.py
+build_rag_db.py
+test_rag_system.py
+test_rag_db_cn.py 
+# only keep build_rag_db_cn.py and demo_rag_cn.py
 
 # 雜項 json (保留 green_table_3.json 與 Prepared Data 內的)
 *.json
 !green_table_3.json
+!green_table_*.json
 !Prepared Data/*.json
+!Prepared Data_CN/*.json
+!guide_translation_mapping.json
+!translation_mapping.json
