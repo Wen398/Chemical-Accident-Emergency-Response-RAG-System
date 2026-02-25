@@ -69,3 +69,11 @@ python3 test_rag_system.py
 
 ---
 **注意**：`erg_chroma_db` 資料夾已被設為忽略 (gitignore)，每次 clone 專案後請務必執行 `build_rag_db.py` 重建資料庫。
+
+## 📝 注意事項 (Notes)
+
+- **搜尋準確度 (Search Accuracy)**:
+  - 使用 UN 編號 (例如 "UN 1017") 進行查詢通常最準確。
+  - 對於較短的化學品名稱 (例如 "Chlorine")，向量搜尋偶爾可能會返回名稱較長但相關的化合物 (例如 "Chlorobenzyl chlorides")。這是因為嵌入模型 (Embedding Model) 可能對較長文本或包含關鍵字子集的內容給予較高信心分數。
+  - 若遇到此情況，建議嘗試補充 UN 編號或確認具體名稱格式。
+
